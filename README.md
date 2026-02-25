@@ -14,7 +14,7 @@ Trains machine learning models
 
 Evaluates model performance
 
-** Objectives**
+**** Objectives****
 
 Understand price behavior across Nairobi neighborhoods
 
@@ -33,7 +33,8 @@ Improve performance using Random Forest
 | amenities     | Comma-separated amenities         |
 | price_kes     | Listing price in Kenyan Shillings |
 | listing_date  | Date listed                       |
-** Data Cleaning & Feature Engineering**
+
+**** Data Cleaning & Feature Engineering****
 
 Key preprocessing steps:
 
@@ -54,6 +55,7 @@ price_per_sqft
 amenity_score
 
 month
+
 **Exploratory Data Analysis**
 
 Key insights:
