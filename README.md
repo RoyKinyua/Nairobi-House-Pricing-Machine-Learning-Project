@@ -13,6 +13,7 @@ Cleans and engineers predictive features
 Trains machine learning models
 
 Evaluates model performance
+
 ** Objectives**
 
 Understand price behavior across Nairobi neighborhoods
