@@ -1,6 +1,6 @@
 # Nairobi-House-Pricing-Machine-Learning-Project
 A machine learning project that predicts property prices in Nairobi using real estate listing data, feature engineering, and regression models.
- **Project Overview**
+ Project Overview
 
 Nairobi’s real estate market varies significantly across neighborhoods, property sizes, and amenities.
 
@@ -14,7 +14,8 @@ Trains machine learning models
 
 Evaluates model performance
 
-**** Objectives****
+
+Objectives
 
 Understand price behavior across Nairobi neighborhoods
 
@@ -34,7 +35,8 @@ Improve performance using Random Forest
 | price_kes     | Listing price in Kenyan Shillings |
 | listing_date  | Date listed                       |
 
-**** Data Cleaning & Feature Engineering****
+
+Data Cleaning & Feature Engineering
 
 Key preprocessing steps:
 
@@ -56,7 +58,8 @@ amenity_score
 
 month
 
-**Exploratory Data Analysis**
+
+Exploratory Data Analysis
 
 Key insights:
 
@@ -65,7 +68,9 @@ Karen, Runda, and Lavington are among the most expensive areas.
 Property size strongly correlates with price.
 
 More amenities increase property value.
-🤖 Modeling
+
+
+Modeling
 Baseline Model: Linear Regression
 
 MAE: 4066916.1396219344
