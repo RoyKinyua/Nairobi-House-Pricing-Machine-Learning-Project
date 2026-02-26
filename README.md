@@ -76,6 +76,7 @@ More amenities increase property value.
 
 
 _Modeling_
+
 Baseline Model: Linear Regression
 
 MAE: 4066916.1396219344
