@@ -18,7 +18,7 @@ Evaluates model performance
 
 
 
-#Objectives
+# Objectives
 
 Understand price behavior across Nairobi neighborhoods
 
