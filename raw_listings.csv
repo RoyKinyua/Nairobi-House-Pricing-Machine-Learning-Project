@@ -1,0 +1,501 @@
+listing_id,location,property_type,bedrooms,bathrooms,size_sqm,amenities,price_kes,listing_date
+NB0001,Ruaka,Penthouse,5,4,234.0,"CCTV,Servant Quarter",20876564.0,2025-02-15
+NB0002,South B,Penthouse,2,2,122.6,"Servant Quarter,Gym,Swimming Pool,Elevator",11431043.0,2025-09-16
+NB0003,Kasarani,Penthouse,3,4,52.7,"CCTV,Swimming Pool,Balcony",9893180.0,2026-01-13
+NB0004,Ruaka,Bungalow,3,3,99.6,"Gym,Servant Quarter,Elevator,Security,Garden",15415773.0,2025-10-07
+NB0005,Kileleshwa,Bungalow,3,2,50.1,"Garden,Servant Quarter,Elevator",13150006.0,2026-02-04
+NB0006,Lavington,Townhouse,4,1,386.5,"Gym,Backup Generator,Garden,Servant Quarter,Balcony",28920636.0,2025-01-21
+NB0007,Karen,Apartment,2,2,225.0,"Elevator,Parking",34140377.0,2026-01-02
+NB0008,South C,Apartment,4,4,202.9,"Servant Quarter,Backup Generator,Swimming Pool,Garden,Balcony",16143533.0,2025-05-21
+NB0009,Embakasi,Apartment,5,1,175.0,"Elevator,Security,Garden,Gym,Servant Quarter",15729076.0,2025-10-29
+NB0010,South B,Penthouse,5,2,114.6,"Backup Generator,Gym,Balcony",15125347.0,2025-06-10
+NB0011,South B,Townhouse,3,4,142.3,"CCTV,Security",14223387.0,2025-01-18
+NB0012,Syokimau,Studio,3,1,216.1,"Balcony,Gym",18087946.0,2025-02-24
+NB0013,Ruaka,Penthouse,5,3,317.5,"Garden,Servant Quarter,Security",23512578.0,2025-08-04
+NB0014,South C,Studio,3,3,124.4,"Parking,Balcony",15505759.0,2025-03-24
+NB0015,Westlands,Apartment,5,1,342.8,"Parking,Servant Quarter",26247669.0,2025-01-24
+NB0016,Roysambu,Bungalow,1,1,186.7,"CCTV,Servant Quarter,Gym,Security,Garden",12144097.0,2025-11-30
+NB0017,Kileleshwa,Penthouse,3,2,92.6,"Elevator,Swimming Pool,Balcony",16057319.0,2025-03-29
+NB0018,Syokimau,Maisonette,1,1,172.8,"Balcony,Servant Quarter,Swimming Pool,Garden,Elevator",12841817.0,2025-09-29
+NB0019,Kasarani,Studio,5,6,185.6,"Elevator,Servant Quarter,CCTV,Balcony,Backup Generator",17660576.0,2025-01-29
+NB0020,Karen,Bungalow,3,3,273.8,"Gym,Parking",35945899.0,2025-03-16
+NB0021,Parklands,Townhouse,1,2,108.1,"Security,Servant Quarter",11462853.0,2025-05-11
+NB0022,South B,Apartment,4,2,270.1,"Security,Gym,Elevator,Garden",19549199.0,2025-09-25
+NB0023,Kileleshwa,Maisonette,3,1,150.0,"Balcony,Servant Quarter,Backup Generator",17281269.0,2025-02-16
+NB0024,Ngong Road,Maisonette,4,2,295.3,"Balcony,Garden,Swimming Pool",20013284.0,2025-04-30
+NB0025,Parklands,Bungalow,1,1,325.7,"Garden,Parking",16199588.0,2025-11-24
+NB0026,Kilimani,Apartment,1,2,116.1,"Servant Quarter,Balcony,Parking,Backup Generator",14525573.0,2025-10-02
+NB0027,Karen,Studio,5,6,179.3,"Backup Generator,Swimming Pool",35664960.0,2025-07-16
+NB0028,Kileleshwa,Maisonette,5,4,378.5,"Servant Quarter,Elevator,Parking",24554265.0,2025-09-05
+NB0029,South C,Townhouse,5,6,311.9,"Security,Parking,Servant Quarter",22173628.0,2025-11-16
+NB0030,Karen,Studio,1,1,202.6,"Parking,Security,Garden",28491573.0,2025-01-27
+NB0031,Kasarani,Bungalow,3,2,48.3,"Gym,Backup Generator,CCTV,Balcony",9053901.0,2025-04-13
+NB0032,Runda,Penthouse,1,1,127.1,"Parking,Gym,Servant Quarter,CCTV,Swimming Pool",35212261.0,2025-06-30
+NB0033,Kileleshwa,Townhouse,3,4,155.9,"Swimming Pool,Gym,Parking,Balcony,Garden",16081426.0,2025-10-26
+NB0034,Roysambu,Townhouse,5,3,323.2,"Elevator,Security,Gym,CCTV",19194573.0,2025-02-16
+NB0035,Kileleshwa,Bungalow,3,3,98.4,"CCTV,Garden,Servant Quarter,Elevator",16976038.0,2025-06-17
+NB0036,South B,Maisonette,1,2,116.1,"Parking,Garden,Security,CCTV,Servant Quarter",11253805.0,2025-06-29
+NB0037,Westlands,Townhouse,5,3,184.4,"Parking,Elevator,Backup Generator,Garden",23792978.0,2025-12-26
+NB0038,Karen,Maisonette,3,4,52.0,"Backup Generator,Balcony",31497461.0,2025-07-05
+NB0039,Kileleshwa,Bungalow,5,3,297.5,"Servant Quarter,Swimming Pool,Elevator",24042848.0,2025-05-22
+NB0040,Runda,Apartment,2,2,232.7,"Security,Parking,Gym,Servant Quarter",40069844.0,2025-07-13
+NB0041,Kilimani,Penthouse,2,1,253.8,"Garden,Gym,Parking,Backup Generator",17473924.0,2025-04-11
+NB0042,Embakasi,Penthouse,4,4,331.0,"Backup Generator,Elevator,Swimming Pool",19541829.0,2026-01-29
+NB0043,Ruaka,Bungalow,3,1,180.2,"CCTV,Backup Generator,Balcony,Garden",15477214.0,2025-10-12
+NB0044,Kileleshwa,Studio,1,2,130.7,"Servant Quarter,CCTV,Parking,Gym,Garden",14876696.0,2025-12-19
+NB0045,Kileleshwa,Bungalow,3,1,319.7,"Servant Quarter,Garden,Parking,Backup Generator",20958940.0,2025-09-06
+NB0046,South B,Apartment,4,3,96.7,"CCTV,Security,Gym",12166741.0,2025-01-15
+NB0047,South C,Bungalow,5,4,123.2,"Swimming Pool,Backup Generator",16576821.0,2025-04-16
+NB0048,Kileleshwa,Bungalow,1,2,341.5,"Swimming Pool,CCTV,Garden",19862266.0,2025-05-23
+NB0049,Parklands,Maisonette,3,4,149.5,"Security,Elevator,Swimming Pool",15184921.0,2025-06-16
+NB0050,Syokimau,Maisonette,4,2,228.3,"Servant Quarter,Swimming Pool,Balcony,Garden",19248925.0,2025-10-31
+NB0051,South C,Bungalow,5,6,148.0,"Swimming Pool,Balcony,Security",17761628.0,2025-10-06
+NB0052,Syokimau,Penthouse,5,4,67.5,"Security,CCTV",14135081.0,2025-05-24
+NB0053,Embakasi,Maisonette,3,3,319.2,"Balcony,CCTV",18124115.0,2025-05-25
+NB0054,Embakasi,Townhouse,1,2,246.0,"CCTV,Swimming Pool,Backup Generator,Parking,Servant Quarter",13346799.0,2025-12-27
+NB0055,Runda,Townhouse,1,1,385.0,"CCTV,Balcony,Gym,Servant Quarter",40779310.0,2025-11-06
+NB0056,Karen,Townhouse,1,1,91.9,"Garden,Backup Generator",29592134.0,2025-05-30
+NB0057,Kileleshwa,Maisonette,4,5,106.4,"Garden,Swimming Pool,Servant Quarter,Elevator,Balcony",16701912.0,2025-01-08
+NB0058,South B,Penthouse,5,5,80.0,"Balcony,Swimming Pool,Parking,Gym",14308887.0,2025-03-06
+NB0059,Parklands,Townhouse,1,2,114.6,"Elevator,Servant Quarter,Gym,Garden",12328246.0,2025-07-23
+NB0060,Lavington,Apartment,3,4,33.7,"Balcony,CCTV,Swimming Pool,Gym",18270760.0,2025-10-16
+NB0061,South C,Apartment,1,1,166.3,"Servant Quarter,Backup Generator",11140694.0,2025-07-06
+NB0062,South C,Studio,5,5,131.2,"Backup Generator,Gym,Elevator",17506140.0,2026-01-26
+NB0063,Parklands,Maisonette,5,5,308.6,"Backup Generator,Parking,CCTV,Security",23430307.0,2025-05-10
+NB0064,Embakasi,Townhouse,1,2,260.2,"Garden,Security,Gym",13563007.0,2025-12-07
+NB0065,Embakasi,Studio,2,1,128.3,"Gym,Parking,Backup Generator",9017491.0,2025-02-21
+NB0066,Westlands,Studio,1,2,240.3,"Garden,CCTV,Balcony",19478850.0,2025-01-21
+NB0067,Karen,Penthouse,1,1,90.6,"Servant Quarter,Elevator,Backup Generator",29382568.0,2025-03-07
+NB0068,Kileleshwa,Studio,2,2,56.2,"Elevator,Servant Quarter,Security",12565720.0,2025-11-19
+NB0069,Karen,Studio,4,2,369.2,"Elevator,Balcony",40440528.0,2025-11-16
+NB0070,Lavington,Townhouse,1,2,108.0,"Balcony,Servant Quarter",16455264.0,2025-06-22
+NB0071,Ruaka,Penthouse,3,2,229.7,"Parking,Security,Servant Quarter,Elevator,Swimming Pool",18950965.0,2025-05-21
+NB0072,Kileleshwa,Studio,3,3,259.8,"Gym,Servant Quarter",20023403.0,2025-10-20
+NB0073,Westlands,Studio,1,1,138.8,"Swimming Pool,CCTV,Servant Quarter,Parking,Security",16474243.0,2026-01-12
+NB0074,Syokimau,Apartment,3,2,37.7,"Garden,Swimming Pool,Gym,Parking",13261032.0,2025-10-30
+NB0075,Westlands,Studio,5,3,145.6,"CCTV,Backup Generator,Parking,Servant Quarter",23008546.0,2025-04-20
+NB0076,Kilimani,Studio,2,2,55.1,"Balcony,Gym,Swimming Pool,Security,Elevator",14534934.0,2025-05-30
+NB0077,Runda,Bungalow,5,1,310.4,"Swimming Pool,Backup Generator",44892008.0,2025-11-09
+NB0078,South B,Apartment,1,2,163.8,"Parking,Security,Swimming Pool",12691520.0,2026-01-06
+NB0079,Ngong Road,Maisonette,4,3,228.7,"Swimming Pool,Elevator,Backup Generator,Parking,Balcony",18054059.0,2025-08-17
+NB0080,Kasarani,Maisonette,5,6,212.7,"Gym,Balcony,Security,Parking",17254808.0,2025-04-20
+NB0081,Lavington,Townhouse,4,2,191.6,"Balcony,CCTV,Backup Generator",22749282.0,2025-08-09
+NB0082,Parklands,Bungalow,3,2,31.6,"Gym,Backup Generator",12569085.0,2025-08-08
+NB0083,Lavington,Townhouse,5,5,265.1,"Backup Generator,Parking",26087594.0,2026-02-03
+NB0084,Lavington,Townhouse,2,3,315.9,"Elevator,Balcony",24150988.0,2025-09-24
+NB0085,South B,Apartment,4,5,399.1,"Parking,Security",23204944.0,2025-06-28
+NB0086,Runda,Apartment,3,2,244.6,"Elevator,CCTV,Swimming Pool,Garden",41218776.0,2025-09-02
+NB0087,Roysambu,Apartment,3,3,66.9,"Backup Generator,Swimming Pool,Balcony",13478477.0,2025-10-11
+NB0088,Ngong Road,Townhouse,3,1,106.1,"CCTV,Security,Gym,Elevator,Servant Quarter",13932931.0,2025-09-15
+NB0089,South C,Studio,2,2,264.5,"Security,CCTV,Garden,Swimming Pool",14616306.0,2025-06-06
+NB0090,Parklands,Studio,3,2,165.6,"Elevator,Parking,Swimming Pool,Gym,Backup Generator",18280409.0,2025-12-08
+NB0091,Kilimani,Penthouse,1,1,58.9,"Garden,Security,Elevator,Swimming Pool",11690496.0,2025-07-21
+NB0092,South C,Bungalow,2,2,98.8,"Elevator,CCTV",11829015.0,2025-09-26
+NB0093,Roysambu,Bungalow,1,2,79.0,"Parking,Security,Servant Quarter,Gym",8506993.0,2025-08-26
+NB0094,Kileleshwa,Apartment,1,1,161.5,"Swimming Pool,Backup Generator,CCTV",13365085.0,2025-12-28
+NB0095,Ruaka,Penthouse,2,3,245.3,"Gym,Backup Generator,Security,CCTV,Balcony",15582256.0,2025-04-04
+NB0096,Syokimau,Studio,2,1,366.8,"Gym,Parking,Garden,CCTV,Swimming Pool",20259252.0,2025-01-08
+NB0097,Runda,Studio,1,2,331.4,"Balcony,Gym,Parking,Backup Generator,CCTV",40265590.0,2025-03-14
+NB0098,Ngong Road,Maisonette,1,1,80.4,"Elevator,Garden,CCTV,Security,Parking",10841836.0,2025-05-31
+NB0099,Parklands,Apartment,3,1,167.7,"CCTV,Garden,Security,Servant Quarter",16334980.0,2025-09-23
+NB0100,Embakasi,Studio,3,1,205.4,"Parking,Balcony,Elevator,Servant Quarter,Gym",14191702.0,2025-03-11
+NB0101,Syokimau,Townhouse,2,2,196.7,"Elevator,Security,CCTV,Swimming Pool",15627401.0,2025-02-21
+NB0102,Syokimau,Bungalow,2,3,269.0,"Balcony,Servant Quarter,Parking,Elevator,Backup Generator",17465907.0,2025-12-05
+NB0103,Roysambu,Apartment,1,2,183.9,"Gym,Elevator",11883871.0,2025-10-21
+NB0104,Ngong Road,Townhouse,3,3,51.9,"Gym,Backup Generator",13517460.0,2025-08-14
+NB0105,Lavington,Penthouse,3,4,389.4,"Balcony,Parking",26083516.0,2025-11-18
+NB0106,Parklands,Bungalow,3,2,203.8,"Backup Generator,Gym,CCTV,Servant Quarter,Security",16169186.0,2025-10-31
+NB0107,Kasarani,Studio,4,2,215.1,"Garden,Parking",16107157.0,2025-12-05
+NB0108,Parklands,Studio,3,4,259.3,"Parking,Gym,Swimming Pool,Balcony,Backup Generator",19407793.0,2025-04-12
+NB0109,Karen,Apartment,5,2,243.1,"Gym,Parking",38070816.0,2025-01-05
+NB0110,Syokimau,Bungalow,2,1,320.6,"Balcony,Security,Backup Generator,Parking,Gym",17034384.0,2025-12-30
+NB0111,Parklands,Apartment,4,4,179.2,"Elevator,Swimming Pool,Garden",17237801.0,2025-03-04
+NB0112,Parklands,Studio,2,1,158.7,"Gym,Servant Quarter,Security,Parking",14864737.0,2025-10-16
+NB0113,Lavington,Townhouse,5,5,49.2,"Servant Quarter,Elevator,Balcony,CCTV,Security",20934575.0,2025-11-08
+NB0114,Roysambu,Apartment,5,5,160.6,"Backup Generator,Servant Quarter,Swimming Pool,Gym,Balcony",17471500.0,2025-06-01
+NB0115,Roysambu,Townhouse,3,4,108.9,"Gym,Backup Generator,CCTV",12880100.0,2025-06-20
+NB0116,South B,Studio,3,2,200.2,"Gym,Parking",17288468.0,2025-11-15
+NB0117,Kileleshwa,Townhouse,2,3,108.0,"Security,Backup Generator",13004840.0,2025-06-21
+NB0118,Ngong Road,Apartment,5,3,33.7,"Swimming Pool,Security,Balcony,Servant Quarter,Parking",15777269.0,2025-10-09
+NB0119,Ngong Road,Maisonette,1,2,51.9,"Security,Swimming Pool,Servant Quarter,Garden",10210544.0,2025-02-23
+NB0120,South C,Studio,5,2,201.8,"Backup Generator,Parking",18050094.0,2025-07-17
+NB0121,Lavington,Apartment,1,1,386.8,"Servant Quarter,Balcony,Parking,Gym",23952161.0,2025-08-23
+NB0122,Ruaka,Apartment,5,6,85.1,"Parking,Servant Quarter",16267436.0,2025-07-04
+NB0123,Kilimani,Maisonette,1,1,118.5,"Gym,Swimming Pool,Parking",13278147.0,2025-02-23
+NB0124,Embakasi,Bungalow,1,2,158.8,"Backup Generator,Security,Swimming Pool",9372622.0,2025-12-07
+NB0125,Westlands,Penthouse,2,1,326.7,"Parking,Balcony",22045599.0,2025-04-13
+NB0126,Kasarani,Maisonette,1,2,256.9,"Elevator,Security",12053430.0,2026-02-02
+NB0127,Ruaka,Studio,2,1,391.3,"Balcony,Swimming Pool,Security,Servant Quarter,Garden",19778132.0,2025-08-07
+NB0128,Kileleshwa,Penthouse,5,2,397.9,"Balcony,Swimming Pool,Parking",27173570.0,2025-07-29
+NB0129,Karen,Studio,4,2,209.1,"Elevator,Servant Quarter",36149391.0,2025-04-27
+NB0130,Embakasi,Studio,4,3,181.7,"Elevator,Swimming Pool,Parking,Security,Garden",15792017.0,2025-03-31
+NB0131,Kilimani,Studio,2,2,398.7,"Balcony,Parking",20503942.0,2025-04-04
+NB0132,Ngong Road,Apartment,2,1,176.2,"Security,Parking,CCTV,Balcony",15994991.0,2025-11-20
+NB0133,Kilimani,Studio,2,3,38.2,"Servant Quarter,CCTV",11404074.0,2025-07-13
+NB0134,Roysambu,Apartment,1,1,151.8,"Balcony,Elevator,Garden,Security,CCTV",11336159.0,2025-02-19
+NB0135,South B,Townhouse,3,4,223.4,"Garden,Parking",15655476.0,2025-12-04
+NB0136,Embakasi,Bungalow,4,1,240.4,"Servant Quarter,Balcony,Security",14126838.0,2025-08-28
+NB0137,Kilimani,Bungalow,2,1,299.0,"CCTV,Elevator",17491331.0,2025-06-27
+NB0138,South B,Studio,4,3,275.3,"Security,Gym",19882205.0,2025-10-03
+NB0139,Parklands,Bungalow,5,3,42.8,"Elevator,CCTV,Garden,Servant Quarter",17396681.0,2025-05-08
+NB0140,Ngong Road,Townhouse,2,2,46.5,"Gym,Security,Parking,Balcony,Servant Quarter",11918750.0,2026-01-26
+NB0141,Lavington,Maisonette,4,5,91.6,"Servant Quarter,Gym,Parking",22056455.0,2025-10-03
+NB0142,Kasarani,Townhouse,2,1,316.3,"Backup Generator,Balcony,Garden,Swimming Pool,Security",18343516.0,2025-08-23
+NB0143,Kileleshwa,Studio,4,1,284.5,"Gym,Parking,CCTV,Swimming Pool,Backup Generator",23836198.0,2025-01-30
+NB0144,Syokimau,Maisonette,3,1,91.6,"Elevator,Gym,Backup Generator",13178432.0,2025-01-17
+NB0145,Roysambu,Penthouse,3,4,168.9,"Servant Quarter,Parking,Swimming Pool",12828511.0,2025-05-29
+NB0146,Ngong Road,Studio,1,1,304.2,"Elevator,Gym",18105418.0,2025-01-13
+NB0147,Runda,Studio,3,3,35.5,"Swimming Pool,Servant Quarter,Elevator,Balcony",34131880.0,2025-11-09
+NB0148,South B,Townhouse,5,5,220.2,"Security,Elevator,Garden",16891807.0,2025-09-16
+NB0149,Kileleshwa,Apartment,3,1,191.1,"Elevator,Security,CCTV",16647914.0,2025-01-21
+NB0150,Karen,Maisonette,3,3,273.4,"Swimming Pool,Balcony,Garden,Gym,Security",34621109.0,2025-06-12
+NB0151,Kilimani,Penthouse,2,1,330.3,"Elevator,Security",19812382.0,2025-11-27
+NB0152,Runda,Penthouse,2,1,270.8,"Security,CCTV,Parking,Balcony",39766566.0,2025-03-12
+NB0153,Parklands,Bungalow,5,5,229.0,"Balcony,Garden,Swimming Pool,Gym,Backup Generator",21509502.0,2025-02-15
+NB0154,Parklands,Townhouse,2,2,128.5,"Elevator,Swimming Pool,CCTV,Parking",16423464.0,2026-01-09
+NB0155,Kilimani,Maisonette,5,3,78.9,"Elevator,CCTV,Servant Quarter",18216783.0,2025-10-02
+NB0156,South C,Townhouse,1,1,86.3,"Backup Generator,Security,Garden,CCTV,Gym",9530354.0,2025-03-22
+NB0157,Parklands,Penthouse,2,1,98.1,"Backup Generator,Garden,Parking,CCTV,Swimming Pool",12792854.0,2025-04-23
+NB0158,Karen,Townhouse,2,2,200.2,"Balcony,Gym,Garden,CCTV",32037487.0,2026-01-25
+NB0159,Parklands,Penthouse,4,2,199.3,"CCTV,Backup Generator",18662003.0,2025-12-22
+NB0160,Westlands,Penthouse,1,1,58.6,"CCTV,Gym,Swimming Pool,Security,Servant Quarter",14296663.0,2025-06-12
+NB0161,South C,Penthouse,4,4,127.0,"Balcony,Backup Generator,Parking",16317587.0,2025-02-01
+NB0162,Westlands,Bungalow,3,3,72.6,"Elevator,CCTV,Backup Generator",16454770.0,2025-09-10
+NB0163,Roysambu,Studio,4,2,206.3,"CCTV,Security,Backup Generator,Parking,Elevator",15551333.0,2025-11-03
+NB0164,Kasarani,Townhouse,5,4,385.8,"Elevator,Gym,Parking",22297250.0,2025-11-20
+NB0165,Kileleshwa,Apartment,2,1,123.8,"CCTV,Servant Quarter,Security",15262633.0,2025-02-08
+NB0166,Parklands,Studio,3,1,340.6,"Security,CCTV,Gym",20182349.0,2025-03-28
+NB0167,Ruaka,Bungalow,2,3,140.7,"Garden,Elevator,Balcony,Servant Quarter,Gym",14420064.0,2025-08-23
+NB0168,Ruaka,Studio,3,3,361.2,"Gym,Swimming Pool",20463364.0,2025-06-30
+NB0169,Kilimani,Penthouse,4,2,113.8,"Security,Servant Quarter,Elevator",17535173.0,2025-01-11
+NB0170,Roysambu,Penthouse,2,2,132.9,"Servant Quarter,Garden,Backup Generator,Elevator,Gym",11976158.0,2025-06-12
+NB0171,Parklands,Bungalow,3,4,124.5,"Swimming Pool,CCTV,Elevator,Garden",14832913.0,2025-08-14
+NB0172,Karen,Studio,2,1,68.7,"Security,Backup Generator,Garden,Servant Quarter",28297395.0,2025-05-25
+NB0173,Parklands,Studio,3,2,235.1,"Parking,Security",19642466.0,2025-08-26
+NB0174,Ngong Road,Bungalow,3,2,176.3,"Balcony,Backup Generator",15502637.0,2025-01-21
+NB0175,Ruaka,Studio,1,2,35.7,"Swimming Pool,Servant Quarter",10347280.0,2025-02-19
+NB0176,Westlands,Apartment,2,3,256.9,"Security,Garden,Balcony,Backup Generator,CCTV",20112167.0,2025-08-12
+NB0177,Kasarani,Maisonette,1,2,337.3,"Swimming Pool,Servant Quarter,Garden",15211472.0,2025-05-27
+NB0178,Syokimau,Maisonette,4,4,52.9,"Backup Generator,Garden,Parking",12514023.0,2025-10-17
+NB0179,Westlands,Penthouse,3,2,263.8,"Swimming Pool,Garden",22082795.0,2025-10-27
+NB0180,Runda,Bungalow,3,2,203.4,"Balcony,Security,CCTV,Elevator,Servant Quarter",39814391.0,2025-11-15
+NB0181,Ruaka,Apartment,2,1,346.3,"Parking,Gym,Garden,Security,CCTV",18928798.0,2025-04-24
+NB0182,Syokimau,Studio,5,3,129.3,"Elevator,Servant Quarter,Security,Gym,Garden",16276309.0,2025-03-14
+NB0183,Ngong Road,Townhouse,4,1,156.5,"Security,CCTV",17386239.0,2025-09-23
+NB0184,Runda,Penthouse,1,1,235.0,"Swimming Pool,Garden",38309326.0,2025-10-09
+NB0185,South C,Townhouse,3,2,142.2,"Servant Quarter,Gym,Security,Backup Generator",14174822.0,2025-04-04
+NB0186,Ruaka,Apartment,4,4,315.6,"Security,Gym,Parking,Backup Generator",21447662.0,2025-05-15
+NB0187,Ngong Road,Townhouse,4,2,302.1,"Swimming Pool,Servant Quarter",20497439.0,2026-01-28
+NB0188,South B,Townhouse,5,2,284.0,"Security,Swimming Pool,Elevator",20177927.0,2025-01-08
+NB0189,Syokimau,Maisonette,3,3,68.1,"Security,Elevator,Swimming Pool,Servant Quarter",13615279.0,2025-08-07
+NB0190,Westlands,Bungalow,1,1,162.6,"CCTV,Elevator,Balcony,Backup Generator",15628696.0,2025-06-06
+NB0191,Ruaka,Studio,3,2,33.3,"Swimming Pool,Elevator,Balcony,Security,CCTV",11679685.0,2025-12-23
+NB0192,Lavington,Bungalow,3,4,193.2,"Servant Quarter,Garden",21501396.0,2025-02-14
+NB0193,Ngong Road,Apartment,4,2,98.6,"Gym,Parking,Balcony,Backup Generator,Swimming Pool",17123253.0,2025-09-09
+NB0194,Ruaka,Maisonette,5,2,347.2,"Balcony,Gym",24157203.0,2026-01-08
+NB0195,Westlands,Townhouse,5,5,200.9,"Gym,Servant Quarter,Elevator",24118901.0,2025-02-06
+NB0196,Roysambu,Penthouse,2,2,162.7,"Security,Swimming Pool,CCTV,Servant Quarter,Parking",14418401.0,2025-03-08
+NB0197,Embakasi,Penthouse,1,2,90.5,"Gym,Balcony,Security,Backup Generator,Garden",7135516.0,2025-05-31
+NB0198,Ngong Road,Maisonette,4,2,54.3,"CCTV,Garden,Backup Generator,Gym,Swimming Pool",14025158.0,2025-01-22
+NB0199,Parklands,Maisonette,5,6,64.2,"Servant Quarter,Swimming Pool",17696959.0,2025-08-17
+NB0200,Kasarani,Penthouse,5,4,268.7,"Gym,Garden",19537637.0,2026-01-25
+NB0201,Runda,Maisonette,1,1,222.7,"Elevator,Servant Quarter,Balcony,Parking,Gym",37505643.0,2025-10-05
+NB0202,South B,Bungalow,2,3,200.6,"CCTV,Gym",13447579.0,2025-05-31
+NB0203,Karen,Townhouse,1,1,86.2,"Garden,Balcony,Elevator",27892498.0,2025-03-19
+NB0204,Kasarani,Penthouse,3,2,156.7,"Security,Elevator",12878670.0,2025-12-30
+NB0205,Roysambu,Bungalow,3,2,276.5,"Garden,Parking,Balcony",15545266.0,2025-03-26
+NB0206,South B,Apartment,2,3,359.6,"Servant Quarter,Parking,Garden",19283719.0,2025-09-18
+NB0207,Ruaka,Apartment,2,2,94.5,"Backup Generator,Balcony",12834428.0,2025-03-06
+NB0208,Lavington,Bungalow,3,2,43.1,"Swimming Pool,Security",17526135.0,2025-08-11
+NB0209,Kasarani,Studio,2,2,61.8,"Parking,Elevator,Swimming Pool,Gym",9466360.0,2025-12-30
+NB0210,Ngong Road,Penthouse,3,2,317.6,"Garden,Swimming Pool,Backup Generator,Gym,Servant Quarter",21066793.0,2025-08-16
+NB0211,South C,Bungalow,2,2,276.8,"Garden,CCTV",16645921.0,2025-02-12
+NB0212,Embakasi,Maisonette,5,2,266.1,"Backup Generator,Elevator",18646805.0,2025-05-02
+NB0213,Ruaka,Townhouse,2,2,399.0,"CCTV,Balcony,Garden,Servant Quarter",19641864.0,2025-04-04
+NB0214,Kilimani,Maisonette,2,3,170.2,"Balcony,Security,Elevator,Gym,Servant Quarter",18605076.0,2025-04-01
+NB0215,Westlands,Apartment,5,5,370.8,"Servant Quarter,Backup Generator,Parking",27429987.0,2025-03-24
+NB0216,Ngong Road,Apartment,4,5,381.0,"Servant Quarter,Gym,Elevator,Backup Generator",22582792.0,2025-10-04
+NB0217,Kileleshwa,Apartment,3,3,134.0,"Swimming Pool,Servant Quarter,Garden,CCTV",16826902.0,2025-10-08
+NB0218,Embakasi,Penthouse,3,2,222.0,"Elevator,CCTV,Servant Quarter,Garden,Swimming Pool",15377681.0,2025-09-05
+NB0219,Westlands,Penthouse,4,4,92.0,"CCTV,Gym,Balcony",19435384.0,2025-05-19
+NB0220,Runda,Apartment,3,1,237.2,"Servant Quarter,Parking",39691832.0,2026-01-14
+NB0221,Roysambu,Penthouse,3,4,277.6,"Garden,Parking,Backup Generator,Gym,CCTV",19144750.0,2025-09-30
+NB0222,Ngong Road,Bungalow,2,3,296.5,"Swimming Pool,Elevator",16828469.0,2025-02-01
+NB0223,Westlands,Studio,1,2,229.6,"Garden,Backup Generator",17362056.0,2025-04-03
+NB0224,Kasarani,Studio,1,2,283.4,"Gym,Garden,Elevator,Servant Quarter",14531202.0,2025-06-07
+NB0225,Kasarani,Apartment,1,2,174.5,"Balcony,Swimming Pool,Security",12086322.0,2025-03-07
+NB0226,Kileleshwa,Maisonette,5,1,201.7,"Swimming Pool,Gym,Servant Quarter",20937055.0,2025-07-04
+NB0227,Parklands,Apartment,1,1,297.2,"Parking,Security,Servant Quarter",18184621.0,2025-02-02
+NB0228,South C,Apartment,2,3,272.5,"CCTV,Parking",14221596.0,2025-09-26
+NB0229,Ruaka,Penthouse,3,2,236.7,"Garden,Backup Generator,Parking",17320937.0,2025-07-20
+NB0230,Embakasi,Apartment,5,6,206.7,"Swimming Pool,Parking,Gym,CCTV",16899331.0,2025-02-06
+NB0231,Karen,Penthouse,5,5,209.5,"Backup Generator,Security,Garden,CCTV,Servant Quarter",36831818.0,2025-08-09
+NB0232,Ruaka,Studio,4,1,267.3,"CCTV,Gym,Backup Generator,Elevator,Balcony",20760840.0,2025-03-27
+NB0233,Ruaka,Townhouse,3,2,202.6,"Gym,Elevator",16968459.0,2025-05-18
+NB0234,Kileleshwa,Townhouse,4,2,342.2,"Gym,Garden,Security,CCTV",23898130.0,2025-08-02
+NB0235,Ngong Road,Studio,2,2,233.5,"Security,Parking,Elevator,Balcony,CCTV",14597916.0,2025-08-03
+NB0236,Kilimani,Apartment,5,5,287.9,"Backup Generator,Gym,Elevator,CCTV",22536943.0,2025-10-11
+NB0237,Karen,Apartment,3,3,264.0,"CCTV,Security,Garden",34963507.0,2025-04-23
+NB0238,Kilimani,Studio,1,1,107.2,"Garden,Security",12076157.0,2025-10-16
+NB0239,South C,Penthouse,4,4,381.4,"Backup Generator,Garden,Balcony",20614460.0,2025-08-18
+NB0240,Lavington,Bungalow,2,2,183.4,"Elevator,CCTV,Security",19657158.0,2025-03-27
+NB0241,Runda,Maisonette,5,4,108.6,"Swimming Pool,Gym,Backup Generator,Security,Elevator",40254174.0,2025-01-13
+NB0242,Roysambu,Bungalow,5,6,242.8,"Elevator,Garden,Backup Generator",20085099.0,2025-08-19
+NB0243,Ngong Road,Bungalow,1,1,103.7,"Balcony,Elevator,Servant Quarter",10069123.0,2025-05-02
+NB0244,Lavington,Apartment,2,3,336.1,"Garden,Parking",24191193.0,2025-02-23
+NB0245,Kasarani,Penthouse,5,2,192.4,"Gym,CCTV",18560778.0,2025-11-11
+NB0246,Syokimau,Maisonette,5,4,322.1,"Swimming Pool,Parking,Gym,CCTV,Servant Quarter",22618622.0,2025-03-28
+NB0247,Runda,Maisonette,5,2,279.2,"CCTV,Parking,Security,Servant Quarter",43526509.0,2025-08-01
+NB0248,Kilimani,Studio,2,3,219.3,"Security,Balcony,Backup Generator,Parking",16715358.0,2025-08-02
+NB0249,Kilimani,Maisonette,3,3,113.1,"Servant Quarter,Garden",16502669.0,2025-01-28
+NB0250,Kasarani,Apartment,3,2,134.2,"Garden,Backup Generator,Swimming Pool,Servant Quarter,Gym",13689767.0,2025-02-14
+NB0251,Karen,Maisonette,3,3,305.5,"Gym,Backup Generator",38504119.0,2025-11-27
+NB0252,Lavington,Townhouse,1,2,195.2,"Security,Backup Generator,Elevator,Garden,CCTV",18058146.0,2025-07-22
+NB0253,Kilimani,Studio,3,1,132.9,"Elevator,Parking,Backup Generator",17301885.0,2025-02-19
+NB0254,Embakasi,Apartment,1,2,273.8,"Security,Parking,CCTV",14526350.0,2025-07-21
+NB0255,Lavington,Bungalow,1,1,99.3,"CCTV,Balcony",16546780.0,2025-06-16
+NB0256,Ruaka,Penthouse,3,4,171.2,"Garden,Servant Quarter",16278506.0,2025-04-23
+NB0257,Lavington,Townhouse,5,4,157.7,"Balcony,Backup Generator",22858533.0,2025-04-30
+NB0258,South C,Apartment,5,1,144.5,"Gym,Balcony,Servant Quarter,Swimming Pool,Security",15247664.0,2025-07-29
+NB0259,Roysambu,Bungalow,2,2,43.7,"Elevator,Servant Quarter,Security,Garden,Backup Generator",8925692.0,2025-07-11
+NB0260,Kasarani,Townhouse,5,6,178.2,"CCTV,Balcony,Elevator,Parking",16482922.0,2026-01-13
+NB0261,Ngong Road,Penthouse,1,2,333.1,"Garden,Swimming Pool,Backup Generator,Parking",17314438.0,2025-07-20
+NB0262,Parklands,Apartment,4,5,344.0,"Parking,CCTV,Garden,Backup Generator",22313528.0,2025-11-16
+NB0263,Kilimani,Studio,5,4,339.8,"Balcony,Garden",25476351.0,2025-10-10
+NB0264,Ngong Road,Bungalow,3,1,398.5,"Backup Generator,Security,Balcony",21894910.0,2026-02-04
+NB0265,Ruaka,Apartment,1,1,344.2,"Servant Quarter,Garden",17660967.0,2026-01-01
+NB0266,Embakasi,Studio,5,2,181.6,"Swimming Pool,Gym,CCTV,Security,Balcony",17646027.0,2025-10-07
+NB0267,Roysambu,Penthouse,4,2,173.8,"Garden,Balcony,Elevator",16957873.0,2025-04-13
+NB0268,Parklands,Townhouse,2,2,192.6,"Swimming Pool,Backup Generator,Gym",15582403.0,2025-11-02
+NB0269,Ngong Road,Bungalow,2,1,209.3,"Parking,Elevator",15830829.0,2025-07-14
+NB0270,South C,Apartment,5,6,247.3,"Security,Backup Generator",21752244.0,2025-12-29
+NB0271,Ruaka,Apartment,3,2,59.6,"Parking,Elevator",13838787.0,2025-11-26
+NB0272,Kilimani,Maisonette,4,3,95.1,"Servant Quarter,Swimming Pool,CCTV,Elevator,Backup Generator",15882494.0,2025-10-15
+NB0273,Ngong Road,Maisonette,4,3,34.7,"Gym,Servant Quarter,Elevator,Security",13326498.0,2025-08-19
+NB0274,Karen,Townhouse,5,6,45.3,"Security,Parking,Servant Quarter,Swimming Pool",34606870.0,2025-10-10
+NB0275,Syokimau,Studio,4,4,173.1,"Backup Generator,Balcony,Swimming Pool",17885028.0,2025-05-08
+NB0276,Runda,Penthouse,3,4,324.5,"Swimming Pool,Elevator",42697567.0,2025-10-05
+NB0277,Syokimau,Penthouse,4,4,211.7,"Balcony,Servant Quarter,CCTV,Security",19066984.0,2026-02-04
+NB0278,Karen,Studio,5,2,91.4,"Gym,Backup Generator,CCTV",36045445.0,2025-11-05
+NB0279,Kasarani,Maisonette,4,3,123.4,"Backup Generator,Security",15582630.0,2025-12-22
+NB0280,South C,Townhouse,3,3,203.9,"Garden,Security",13278415.0,2025-07-13
+NB0281,Roysambu,Maisonette,4,1,160.4,"Parking,Balcony,Security,Garden",14644380.0,2025-01-03
+NB0282,Kasarani,Maisonette,3,1,90.6,"Parking,Elevator,Garden",10464069.0,2025-08-22
+NB0283,Roysambu,Penthouse,2,3,95.3,"Balcony,Swimming Pool,Servant Quarter,Garden,Parking",11722953.0,2025-10-29
+NB0284,South C,Studio,3,4,206.7,"Security,Parking,Servant Quarter,Swimming Pool",15985994.0,2025-02-01
+NB0285,South C,Studio,5,1,329.7,"Garden,Balcony,Servant Quarter",23434991.0,2025-03-05
+NB0286,Runda,Apartment,5,6,68.0,"Servant Quarter,Elevator,Gym",40555679.0,2025-08-08
+NB0287,Kasarani,Studio,1,2,351.6,"Swimming Pool,Gym,Security,Elevator,Backup Generator",15245420.0,2025-12-17
+NB0288,Westlands,Penthouse,4,1,387.3,"Servant Quarter,Garden,Security,Elevator,Swimming Pool",26775813.0,2026-02-03
+NB0289,South C,Studio,5,1,375.9,"Gym,Elevator,Security,Swimming Pool,Parking",25324540.0,2025-04-21
+NB0290,South C,Bungalow,3,4,36.8,"Garden,Balcony,Servant Quarter,Backup Generator,Swimming Pool",13558960.0,2025-04-18
+NB0291,Embakasi,Studio,5,1,75.3,"Servant Quarter,Garden,Security,CCTV",15093906.0,2025-08-26
+NB0292,Kileleshwa,Maisonette,1,2,388.3,"Elevator,Garden,Servant Quarter,Security,Backup Generator",22366847.0,2025-02-02
+NB0293,Ruaka,Studio,4,1,277.2,"Parking,Swimming Pool,Servant Quarter,Gym,Security",22865482.0,2025-03-22
+NB0294,Kileleshwa,Maisonette,3,1,196.7,"Garden,Servant Quarter",17972368.0,2025-07-13
+NB0295,Embakasi,Studio,1,1,222.0,"Gym,Servant Quarter,Backup Generator,Garden,Security",12442836.0,2025-10-31
+NB0296,Roysambu,Maisonette,4,2,321.6,"Parking,Garden,Elevator,Backup Generator",19822833.0,2025-10-17
+NB0297,South B,Maisonette,4,5,161.4,"Backup Generator,Gym,Servant Quarter,Elevator,CCTV",16622790.0,2025-11-02
+NB0298,Westlands,Studio,1,1,236.0,"Garden,CCTV,Parking,Swimming Pool",19279458.0,2025-05-15
+NB0299,Parklands,Penthouse,1,1,386.7,"Balcony,Backup Generator",17855127.0,2026-01-07
+NB0300,South B,Bungalow,1,2,381.6,"Gym,Swimming Pool",17196520.0,2025-10-28
+NB0301,Roysambu,Maisonette,3,2,318.4,"CCTV,Swimming Pool,Parking,Security,Garden",15628846.0,2025-03-13
+NB0302,Embakasi,Bungalow,2,1,350.4,"Gym,Elevator",15409147.0,2025-06-15
+NB0303,Ngong Road,Maisonette,5,4,89.1,"Gym,Parking,Elevator",16575921.0,2025-11-07
+NB0304,Roysambu,Maisonette,4,1,36.5,"Gym,Backup Generator,Parking",13396950.0,2025-11-26
+NB0305,South C,Maisonette,3,2,339.2,"Balcony,Garden",19264393.0,2025-06-26
+NB0306,Karen,Maisonette,4,5,163.9,"CCTV,Elevator,Servant Quarter,Security",35025303.0,2025-04-21
+NB0307,Ruaka,Maisonette,1,1,363.2,"Parking,Balcony",17553325.0,2025-12-19
+NB0308,Karen,Bungalow,5,5,311.5,"Security,Parking,Backup Generator",40057440.0,2025-03-14
+NB0309,Parklands,Studio,5,3,44.3,"Gym,Backup Generator",16787215.0,2025-08-25
+NB0310,Lavington,Bungalow,3,1,164.0,"Garden,Servant Quarter,CCTV",20381776.0,2025-08-12
+NB0311,Kilimani,Penthouse,4,3,210.9,"Swimming Pool,Security,Gym,Elevator,Backup Generator",18299930.0,2026-01-08
+NB0312,South B,Bungalow,1,1,372.4,"CCTV,Backup Generator,Gym",17928084.0,2025-08-02
+NB0313,Kileleshwa,Penthouse,3,1,399.1,"Security,Swimming Pool",23241796.0,2025-12-31
+NB0314,Lavington,Penthouse,3,3,47.4,"Security,Gym,Balcony",17057461.0,2025-06-01
+NB0315,Ngong Road,Townhouse,2,3,194.0,"Gym,Garden",15703399.0,2025-06-22
+NB0316,Kasarani,Apartment,4,4,74.9,"Parking,Servant Quarter",13119914.0,2025-04-13
+NB0317,South C,Bungalow,5,2,251.5,"CCTV,Garden,Servant Quarter,Gym,Security",18740109.0,2025-02-05
+NB0318,Kilimani,Apartment,3,4,167.2,"Garden,Backup Generator,Balcony",17399875.0,2026-01-13
+NB0319,Karen,Townhouse,5,2,183.8,"Elevator,Security,Garden,CCTV,Swimming Pool",37360187.0,2025-12-27
+NB0320,Kasarani,Studio,5,3,155.6,"Security,Balcony,Servant Quarter",13876835.0,2025-12-12
+NB0321,Ngong Road,Maisonette,3,3,356.7,"Balcony,Parking,CCTV",19749015.0,2025-12-14
+NB0322,South B,Penthouse,2,1,394.7,"Balcony,Backup Generator",17765919.0,2025-09-22
+NB0323,Embakasi,Maisonette,2,2,316.0,"Elevator,CCTV,Security,Parking",14797451.0,2025-03-15
+NB0324,Westlands,Townhouse,3,3,105.6,"Balcony,Elevator,Swimming Pool,Backup Generator",18305699.0,2026-01-01
+NB0325,Lavington,Bungalow,1,1,299.4,"Balcony,Garden",21159078.0,2025-12-13
+NB0326,Kileleshwa,Apartment,1,2,352.6,"Backup Generator,Servant Quarter,CCTV",20054451.0,2025-11-02
+NB0327,Karen,Maisonette,3,2,251.3,"Backup Generator,Balcony",34338268.0,2025-07-16
+NB0328,Lavington,Apartment,2,3,232.1,"CCTV,Backup Generator,Swimming Pool",21126786.0,2025-10-18
+NB0329,South B,Townhouse,4,1,307.2,"Swimming Pool,Backup Generator,Garden,Balcony,Servant Quarter",19359360.0,2025-04-23
+NB0330,Kileleshwa,Studio,1,2,394.8,"Garden,Backup Generator,Elevator",19713589.0,2025-09-16
+NB0331,South B,Studio,4,5,121.5,"Elevator,Security,Backup Generator,Balcony,Parking",14984212.0,2025-05-23
+NB0332,Lavington,Studio,2,1,75.3,"Balcony,Parking,CCTV,Garden,Swimming Pool",16535276.0,2025-03-25
+NB0333,South C,Studio,4,1,81.7,"Security,Gym,Swimming Pool",14290272.0,2025-03-24
+NB0334,Roysambu,Townhouse,5,6,144.0,"Gym,Parking,Servant Quarter,CCTV,Backup Generator",17405072.0,2025-03-29
+NB0335,Karen,Townhouse,1,2,348.6,"Gym,Balcony,Parking,Swimming Pool,Backup Generator",37307376.0,2025-12-29
+NB0336,South C,Penthouse,4,2,260.6,"Servant Quarter,Gym,CCTV",18832860.0,2025-03-29
+NB0337,Roysambu,Penthouse,1,2,190.7,"Elevator,Garden,Gym",11803546.0,2025-04-12
+NB0338,South B,Studio,4,2,149.5,"Balcony,Servant Quarter,Swimming Pool",16833735.0,2025-11-27
+NB0339,Kileleshwa,Maisonette,5,1,275.1,"Elevator,Gym,CCTV,Servant Quarter",23356989.0,2025-04-04
+NB0340,South B,Maisonette,2,3,293.4,"Backup Generator,Gym,Servant Quarter",15968235.0,2025-05-13
+NB0341,Runda,Studio,1,2,264.0,"Swimming Pool,CCTV",38933230.0,2025-09-25
+NB0342,South C,Townhouse,4,1,250.8,"Garden,CCTV,Elevator,Backup Generator,Parking",20423862.0,2025-01-10
+NB0343,Kasarani,Penthouse,4,2,356.2,"Balcony,CCTV,Parking,Swimming Pool,Security",21027195.0,2025-01-06
+NB0344,Syokimau,Townhouse,4,2,78.1,"Security,Elevator,Gym,Parking",13049204.0,2025-03-01
+NB0345,South B,Maisonette,3,4,333.1,"Swimming Pool,Security,Garden",18173851.0,2025-07-27
+NB0346,South C,Penthouse,4,2,154.0,"Parking,Backup Generator,Elevator",16473859.0,2025-03-10
+NB0347,Lavington,Townhouse,2,1,333.3,"Elevator,Gym,Garden",22102961.0,2025-09-20
+NB0348,Runda,Maisonette,4,5,229.5,"Balcony,Parking",43056792.0,2025-11-16
+NB0349,Parklands,Townhouse,3,4,53.9,"Garden,Security,Gym,Backup Generator,Elevator",13542288.0,2025-08-18
+NB0350,South B,Maisonette,1,2,355.2,"Balcony,CCTV,Garden",15330500.0,2025-04-19
+NB0351,Karen,Penthouse,3,2,213.1,"Gym,Servant Quarter,Garden",35895010.0,2025-09-25
+NB0352,Parklands,Studio,5,6,143.5,"CCTV,Garden,Servant Quarter,Swimming Pool",18687590.0,2025-02-13
+NB0353,Karen,Townhouse,4,1,64.6,"Security,Parking",31429617.0,2025-09-15
+NB0354,Lavington,Townhouse,2,1,363.8,"Security,CCTV",24426339.0,2025-08-02
+NB0355,Westlands,Studio,1,1,383.1,"Backup Generator,Servant Quarter,Garden,Elevator",20856667.0,2025-09-12
+NB0356,Runda,Townhouse,3,4,374.4,"Gym,CCTV,Parking,Swimming Pool",43833963.0,2025-09-16
+NB0357,South C,Townhouse,2,3,93.4,"Servant Quarter,Garden,Security",12621731.0,2025-01-31
+NB0358,Runda,Studio,5,6,306.6,"Gym,Balcony,Garden,Servant Quarter,Swimming Pool",45684075.0,2025-06-18
+NB0359,Ruaka,Apartment,2,1,134.7,"Garden,Security,Balcony,Swimming Pool",12946283.0,2025-03-24
+NB0360,Runda,Penthouse,1,1,374.1,"Swimming Pool,Garden,CCTV,Servant Quarter",38460182.0,2025-01-07
+NB0361,Embakasi,Studio,3,3,135.4,"Swimming Pool,Garden,Backup Generator,Servant Quarter",12512531.0,2025-09-12
+NB0362,Parklands,Penthouse,4,1,62.1,"Servant Quarter,CCTV,Parking",14139963.0,2025-11-10
+NB0363,Kileleshwa,Apartment,5,4,304.8,"Balcony,Security,Servant Quarter",22132388.0,2025-09-08
+NB0364,Parklands,Studio,1,2,111.0,"Security,Swimming Pool,Servant Quarter",12551286.0,2025-02-02
+NB0365,Roysambu,Penthouse,3,1,270.4,"Gym,Elevator,Parking",17374676.0,2025-03-17
+NB0366,Embakasi,Penthouse,3,1,301.4,"Garden,Elevator,Backup Generator,Parking,Swimming Pool",16549985.0,2025-06-25
+NB0367,Runda,Bungalow,4,4,245.7,"Parking,Backup Generator,CCTV",41320774.0,2025-05-13
+NB0368,Embakasi,Apartment,1,1,156.3,"Parking,Gym,Balcony",10096510.0,2025-02-23
+NB0369,Embakasi,Townhouse,5,5,191.6,"Balcony,Elevator",16970357.0,2025-01-04
+NB0370,Embakasi,Maisonette,3,3,75.6,"Security,Balcony,Gym,Elevator",12118466.0,2025-06-10
+NB0371,Karen,Apartment,3,2,358.1,"Servant Quarter,CCTV,Swimming Pool,Garden",38077269.0,2025-11-29
+NB0372,South B,Bungalow,1,1,199.0,"Swimming Pool,Security",11358690.0,2025-05-13
+NB0373,South B,Bungalow,1,1,254.3,"Parking,Balcony",13443814.0,2025-03-22
+NB0374,Embakasi,Studio,2,2,375.3,"Balcony,Security,Parking,Garden",15553003.0,2026-01-11
+NB0375,Ngong Road,Studio,3,2,77.1,"Garden,Swimming Pool",14660396.0,2025-12-31
+NB0376,Lavington,Townhouse,5,4,335.6,"Parking,Garden,Swimming Pool,Servant Quarter",28398423.0,2025-08-20
+NB0377,South C,Townhouse,3,3,301.8,"Parking,Garden,Elevator,CCTV,Balcony",18792666.0,2026-01-06
+NB0378,Syokimau,Penthouse,5,2,377.6,"CCTV,Elevator",24305393.0,2025-11-22
+NB0379,Kasarani,Townhouse,2,1,43.8,"Parking,Elevator,Backup Generator,Gym",9548798.0,2025-05-24
+NB0380,Runda,Penthouse,3,2,148.4,"Backup Generator,Garden,Elevator,CCTV,Gym",38477242.0,2025-11-21
+NB0381,Lavington,Apartment,4,3,281.5,"Gym,Balcony,Elevator,Security,CCTV",25277252.0,2025-08-07
+NB0382,Westlands,Bungalow,2,3,76.0,"Parking,Elevator,Gym",16492564.0,2025-08-18
+NB0383,Westlands,Penthouse,2,1,254.4,"Balcony,Swimming Pool,Parking",19844857.0,2025-08-27
+NB0384,Ngong Road,Maisonette,4,3,171.3,"Elevator,Security",17526818.0,2025-05-06
+NB0385,Karen,Bungalow,1,1,313.1,"Gym,Balcony,Backup Generator",34728961.0,2025-08-09
+NB0386,South C,Studio,5,6,390.1,"Balcony,Servant Quarter,Swimming Pool,Garden,Elevator",23697940.0,2025-06-27
+NB0387,Roysambu,Studio,3,1,285.8,"CCTV,Garden",15850134.0,2025-10-05
+NB0388,Roysambu,Bungalow,4,4,350.6,"Servant Quarter,Gym,Swimming Pool",21449238.0,2025-06-11
+NB0389,South C,Penthouse,4,3,153.6,"Gym,Swimming Pool,Balcony",14696499.0,2025-04-05
+NB0390,Syokimau,Apartment,4,4,202.2,"Security,Garden,Balcony,Parking",20550034.0,2025-09-01
+NB0391,Embakasi,Townhouse,3,1,277.2,"Garden,Security,Servant Quarter",16966860.0,2025-05-10
+NB0392,Kasarani,Studio,3,2,78.7,"Backup Generator,Balcony",11313442.0,2025-06-17
+NB0393,Ngong Road,Bungalow,4,1,345.7,"Garden,Parking,Security",23235924.0,2025-10-13
+NB0394,Ruaka,Studio,4,1,157.5,"Balcony,Servant Quarter,CCTV,Elevator",17816761.0,2025-11-09
+NB0395,Westlands,Apartment,2,3,37.1,"Parking,Security,Servant Quarter,Elevator",15189539.0,2026-01-11
+NB0396,Parklands,Townhouse,2,1,79.7,"Parking,Servant Quarter,Backup Generator,Balcony",12683546.0,2025-06-26
+NB0397,Ngong Road,Bungalow,4,4,289.6,"Swimming Pool,Parking,Gym",21369505.0,2025-03-31
+NB0398,Parklands,Penthouse,4,3,286.6,"Parking,Garden,Swimming Pool,Gym,CCTV",19904507.0,2026-01-11
+NB0399,Kasarani,Maisonette,3,3,108.6,"Servant Quarter,Backup Generator,Swimming Pool,Garden,Gym",11856867.0,2025-06-15
+NB0400,Karen,Apartment,2,1,296.5,"Balcony,Servant Quarter,Garden",36883601.0,2025-02-27
+NB0401,Ruaka,Maisonette,4,2,257.7,"Balcony,Security,Servant Quarter",19383774.0,2026-01-24
+NB0402,Lavington,Townhouse,4,4,322.7,"Balcony,Elevator",24906674.0,2025-05-30
+NB0403,South B,Studio,2,1,290.0,"Elevator,Parking,Swimming Pool",15894164.0,2025-05-28
+NB0404,Karen,Maisonette,2,3,122.3,"Security,Parking,Balcony,Gym,Swimming Pool",29849322.0,2025-12-22
+NB0405,Runda,Apartment,2,1,62.0,"Balcony,Parking",33617303.0,2025-02-05
+NB0406,Kilimani,Studio,1,2,386.5,"Backup Generator,Servant Quarter,Swimming Pool",19096605.0,2025-04-20
+NB0407,Kilimani,Townhouse,4,3,88.6,"Elevator,Swimming Pool,Garden,Balcony",17654984.0,2025-10-05
+NB0408,Syokimau,Penthouse,1,1,93.3,"CCTV,Gym,Balcony,Backup Generator,Garden",10764721.0,2025-08-29
+NB0409,Parklands,Studio,2,2,114.2,"Parking,Security,Backup Generator,Garden",12570325.0,2025-02-21
+NB0410,Ruaka,Bungalow,3,2,104.5,"Swimming Pool,Garden",14867352.0,2025-08-30
+NB0411,Embakasi,Maisonette,2,3,352.9,"Servant Quarter,Gym",16419269.0,2025-05-09
+NB0412,Ngong Road,Townhouse,2,2,182.3,"Security,Balcony",14353110.0,2025-01-06
+NB0413,Westlands,Studio,1,1,186.1,"Balcony,Swimming Pool,Garden,Elevator,CCTV",17190815.0,2025-01-26
+NB0414,Westlands,Bungalow,5,5,114.7,"Gym,Backup Generator",19981903.0,2025-03-14
+NB0415,Westlands,Maisonette,4,4,157.0,"CCTV,Servant Quarter",21152103.0,2025-11-07
+NB0416,Roysambu,Studio,4,2,210.8,"Servant Quarter,Balcony,Swimming Pool,Garden,Elevator",16961509.0,2025-07-19
+NB0417,Roysambu,Townhouse,1,1,151.8,"CCTV,Elevator",10483514.0,2025-02-26
+NB0418,Embakasi,Maisonette,2,3,216.1,"Elevator,CCTV",13684305.0,2025-03-12
+NB0419,Runda,Bungalow,2,2,53.7,"CCTV,Balcony,Security",35553775.0,2025-03-09
+NB0420,Ngong Road,Maisonette,2,1,250.9,"Parking,Gym,Servant Quarter",16794185.0,2025-10-08
+NB0421,Parklands,Maisonette,4,4,324.2,"Security,Gym,Swimming Pool,Servant Quarter",21731624.0,2026-01-09
+NB0422,Kileleshwa,Studio,2,3,138.6,"Backup Generator,Garden,Balcony,Swimming Pool",14498589.0,2025-10-16
+NB0423,Parklands,Apartment,3,2,257.5,"Elevator,CCTV,Backup Generator,Gym,Swimming Pool",19334236.0,2025-02-25
+NB0424,Roysambu,Studio,3,2,136.3,"Elevator,Servant Quarter,Balcony,Security",15304076.0,2025-10-27
+NB0425,Parklands,Studio,5,5,48.1,"Swimming Pool,Garden,CCTV,Servant Quarter,Elevator",17562372.0,2026-01-21
+NB0426,Embakasi,Bungalow,1,2,202.1,"Balcony,Security",9987201.0,2025-01-22
+NB0427,Roysambu,Townhouse,5,5,81.0,"Swimming Pool,Gym,CCTV",15127658.0,2025-04-17
+NB0428,Ruaka,Apartment,3,3,72.2,"Elevator,Gym",12813411.0,2025-03-10
+NB0429,South C,Maisonette,1,1,96.9,"Balcony,Swimming Pool,CCTV,Elevator",9603599.0,2025-09-09
+NB0430,Kasarani,Townhouse,5,4,37.3,"Parking,CCTV",15725060.0,2025-12-31
+NB0431,South C,Apartment,4,2,347.1,"Elevator,CCTV,Swimming Pool,Servant Quarter,Backup Generator",20142883.0,2025-06-27
+NB0432,Embakasi,Apartment,2,2,280.6,"Backup Generator,CCTV,Swimming Pool,Elevator,Servant Quarter",15828993.0,2026-01-05
+NB0433,Roysambu,Studio,3,2,240.9,"Gym,Garden,CCTV,Balcony,Security",17198586.0,2025-05-08
+NB0434,Lavington,Apartment,1,1,273.6,"Swimming Pool,Backup Generator",20456114.0,2025-12-14
+NB0435,Kilimani,Penthouse,2,2,308.6,"Elevator,Security,Balcony",20322625.0,2025-05-07
+NB0436,Kasarani,Bungalow,4,2,306.7,"CCTV,Swimming Pool",18883322.0,2025-07-26
+NB0437,Lavington,Apartment,2,2,172.0,"Balcony,Servant Quarter,Backup Generator",18893876.0,2025-08-07
+NB0438,Ngong Road,Bungalow,2,2,51.2,"Servant Quarter,Parking,Backup Generator,Balcony,Security",11087943.0,2025-03-17
+NB0439,Ngong Road,Bungalow,5,2,246.8,"Servant Quarter,Elevator,CCTV,Garden",22258031.0,2026-01-29
+NB0440,Embakasi,Bungalow,4,3,117.5,"Parking,Swimming Pool,Servant Quarter,Security,Garden",12657499.0,2025-11-03
+NB0441,Roysambu,Penthouse,1,1,72.2,"Gym,Security,Parking,CCTV,Backup Generator",7582655.0,2025-08-06
+NB0442,Roysambu,Studio,5,3,170.5,"CCTV,Garden",17488905.0,2025-04-16
+NB0443,Westlands,Studio,3,1,107.6,"Gym,Backup Generator,Parking",18810118.0,2025-11-12
+NB0444,Westlands,Apartment,5,5,206.6,"Garden,Elevator,Swimming Pool",22366814.0,2025-11-03
+NB0445,Ruaka,Townhouse,2,2,382.2,"Elevator,Gym",20683383.0,2025-07-15
+NB0446,South B,Apartment,3,4,106.3,"Swimming Pool,CCTV,Security",11871038.0,2025-11-24
+NB0447,South C,Apartment,5,1,144.5,"Security,Garden,Parking,Swimming Pool",18060774.0,2026-01-07
+NB0448,Roysambu,Studio,1,1,134.7,"Gym,Servant Quarter,Garden,Swimming Pool",10009425.0,2025-09-04
+NB0449,Kilimani,Maisonette,4,1,85.2,"Elevator,Swimming Pool,Security,Garden,Backup Generator",15804605.0,2025-02-24
+NB0450,Ruaka,Studio,2,2,337.3,"Servant Quarter,Garden",18116453.0,2026-01-15
+NB0451,Kilimani,Townhouse,2,1,393.3,"Servant Quarter,Backup Generator,Security,Elevator,Gym",23698303.0,2025-04-25
+NB0452,Kileleshwa,Studio,4,5,158.3,"Elevator,Security,Backup Generator,Gym,Parking",18433540.0,2025-01-10
+NB0453,Runda,Maisonette,1,1,238.6,"Servant Quarter,Backup Generator,Gym,Parking,Balcony",37891659.0,2025-01-31
+NB0454,Roysambu,Penthouse,3,4,105.0,"CCTV,Elevator,Swimming Pool,Garden",12918994.0,2025-01-15
+NB0455,Kileleshwa,Townhouse,1,1,43.6,"Backup Generator,Elevator",12156337.0,2025-05-19
+NB0456,Ruaka,Apartment,2,3,221.7,"CCTV,Swimming Pool,Elevator",16749099.0,2025-06-10
+NB0457,Ruaka,Penthouse,1,2,155.6,"Elevator,CCTV,Gym,Servant Quarter,Garden",12620998.0,2025-12-25
+NB0458,Karen,Bungalow,4,2,143.3,"Gym,Swimming Pool,Garden",34024533.0,2025-11-03
+NB0459,Lavington,Maisonette,4,5,111.4,"Balcony,CCTV,Servant Quarter,Security",22574677.0,2025-04-22
+NB0460,Syokimau,Penthouse,3,3,306.0,"Balcony,CCTV,Security",17987187.0,2025-06-14
+NB0461,Kilimani,Apartment,5,2,56.9,"Elevator,Security,Balcony,CCTV",18739927.0,2025-05-26
+NB0462,Westlands,Studio,4,5,206.3,"Elevator,Servant Quarter,Parking",23476293.0,2025-01-17
+NB0463,South C,Penthouse,5,1,263.6,"Parking,Gym,Elevator,Swimming Pool,Servant Quarter",20614063.0,2025-02-14
+NB0464,Embakasi,Townhouse,2,1,226.6,"Garden,Servant Quarter,Balcony,Parking,Swimming Pool",12735640.0,2025-09-21
+NB0465,South B,Apartment,2,3,218.6,"Balcony,CCTV,Servant Quarter",14476316.0,2025-01-21
+NB0466,Ruaka,Penthouse,4,1,176.3,"Gym,Security,Swimming Pool,Garden,CCTV",17464101.0,2025-09-01
+NB0467,Karen,Bungalow,2,2,359.0,"Elevator,Swimming Pool,Servant Quarter,Gym,Balcony",38270505.0,2025-02-16
+NB0468,Roysambu,Studio,5,1,237.4,"Gym,Servant Quarter,Security,Swimming Pool,Parking",17512407.0,2025-09-18
+NB0469,Kasarani,Bungalow,5,3,207.4,"Backup Generator,Gym,Parking",17573134.0,2026-02-02
+NB0470,Lavington,Townhouse,2,1,254.2,"Servant Quarter,Balcony,Backup Generator",21956507.0,2026-01-05
+NB0471,Syokimau,Townhouse,1,2,316.6,"Servant Quarter,Backup Generator",15860625.0,2026-01-30
+NB0472,Kilimani,Studio,5,6,181.4,"Balcony,Elevator,Swimming Pool,Servant Quarter",19570177.0,2026-01-27
+NB0473,Parklands,Townhouse,4,1,92.4,"CCTV,Servant Quarter",15738002.0,2025-09-28
+NB0474,Lavington,Townhouse,1,2,197.6,"Backup Generator,Elevator,Gym,Servant Quarter,CCTV",18156681.0,2026-01-09
+NB0475,Syokimau,Bungalow,5,4,355.0,"Backup Generator,Balcony,Elevator,CCTV,Gym",23338767.0,2025-07-29
+NB0476,Ruaka,Townhouse,3,4,133.6,"Servant Quarter,Elevator,Gym,CCTV",17419019.0,2025-02-08
+NB0477,Embakasi,Apartment,1,2,378.0,"CCTV,Backup Generator,Servant Quarter",15876763.0,2025-05-21
+NB0478,Ruaka,Bungalow,1,1,383.8,"Swimming Pool,CCTV,Elevator,Gym",17050999.0,2025-05-26
+NB0479,Kileleshwa,Studio,3,3,69.5,"Servant Quarter,CCTV",14917561.0,2025-10-05
+NB0480,Kasarani,Penthouse,5,2,380.3,"Security,Swimming Pool",21914183.0,2025-03-09
+NB0481,South B,Maisonette,5,6,222.7,"Swimming Pool,Security,Garden",21077162.0,2026-02-03
+NB0482,Ngong Road,Apartment,3,4,54.3,"Elevator,Security,Balcony",12848572.0,2026-01-24
+NB0483,Roysambu,Bungalow,5,2,363.0,"Security,Balcony,Servant Quarter",22381348.0,2025-08-07
+NB0484,Ngong Road,Studio,1,2,311.1,"Gym,CCTV,Garden",17545826.0,2025-06-15
+NB0485,Embakasi,Penthouse,4,4,186.7,"CCTV,Parking,Backup Generator,Balcony,Servant Quarter",14362210.0,2025-10-28
+NB0486,Ruaka,Apartment,3,2,296.9,"CCTV,Parking,Gym,Balcony",19815113.0,2025-09-02
+NB0487,Westlands,Maisonette,2,1,146.8,"Balcony,Servant Quarter,Parking",16499085.0,2025-12-25
+NB0488,Westlands,Maisonette,5,4,96.0,"CCTV,Balcony",21362144.0,2025-05-07
+NB0489,Syokimau,Apartment,5,4,105.7,"Servant Quarter,Balcony",16911848.0,2025-04-23
+NB0490,Embakasi,Bungalow,3,2,114.8,"CCTV,Security,Swimming Pool,Gym,Parking",11621753.0,2025-12-27
+NB0491,Kilimani,Maisonette,5,3,180.7,"Parking,Security",20243351.0,2025-09-08
+NB0492,Kilimani,Townhouse,5,5,397.1,"Gym,Servant Quarter,Backup Generator,Parking,CCTV",25229402.0,2026-01-07
+NB0493,Kileleshwa,Apartment,2,3,158.9,"Swimming Pool,CCTV,Garden,Backup Generator,Servant Quarter",15441054.0,2026-01-16
+NB0494,Kasarani,Townhouse,5,3,350.0,"Balcony,Swimming Pool,Gym",22456152.0,2025-12-30
+NB0495,Ruaka,Studio,4,5,382.9,"CCTV,Parking,Balcony",22700722.0,2025-01-25
+NB0496,Lavington,Penthouse,2,2,284.0,"Garden,Servant Quarter",22767864.0,2026-02-04
+NB0497,Kilimani,Maisonette,2,3,214.4,"Servant Quarter,Backup Generator",16338349.0,2025-05-05
+NB0498,Lavington,Maisonette,1,1,377.3,"Garden,Elevator,Gym",24088107.0,2025-06-25
+NB0499,Parklands,Townhouse,5,1,357.7,"Swimming Pool,Security,Backup Generator,Elevator",25556180.0,2025-03-12
+NB0500,South C,Apartment,5,2,283.3,"Servant Quarter,Backup Generator,Garden,Elevator",21503658.0,2025-10-22

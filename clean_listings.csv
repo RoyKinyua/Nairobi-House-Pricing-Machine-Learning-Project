@@ -1,0 +1,501 @@
+,location,property_type,bedrooms,bathrooms,size_sqm,amenities,price_kes,listing_date,size_sqft,price_per_sqft,backup generator,balcony,cctv,elevator,garden,gym,parking,security,servant quarter,swimming pool,month
+0,Ruaka,Penthouse,5,4,234.0,"cctv,servant quarter",20876564.0,2025-02-15,2518.7526,8288.45357817199,0,0,1,0,0,0,0,0,1,0,February
+1,South B,Penthouse,2,2,122.6,"servant quarter,gym,swimming pool,elevator",11431043.0,2025-09-16,1319.6541399999999,8662.150675327704,0,0,0,1,0,1,0,0,1,1,September
+2,Kasarani,Penthouse,3,4,52.7,"cctv,swimming pool,balcony",9893180.0,2026-01-13,567.25753,17440.367869598842,0,1,1,0,0,0,0,0,0,1,January
+3,Ruaka,Bungalow,3,3,99.6,"gym,servant quarter,elevator,security,garden",15415773.0,2025-10-07,1072.0844399999999,14379.252626780035,0,0,0,1,1,1,0,1,1,0,October
+4,Kileleshwa,Bungalow,3,2,50.1,"garden,servant quarter,elevator",13150006.0,2026-02-04,539.27139,24384.764784202627,0,0,0,1,1,0,0,0,1,0,February
+5,Lavington,Townhouse,4,1,386.5,"gym,backup generator,garden,servant quarter,balcony",28920636.0,2025-01-21,4160.24735,6951.662621694838,1,1,0,0,1,1,0,0,1,0,January
+6,Karen,Apartment,2,2,225.0,"elevator,parking",34140377.0,2026-01-02,2421.8775,14096.657242160265,0,0,0,1,0,0,1,0,0,0,January
+7,South C,Apartment,4,4,202.9,"servant quarter,backup generator,swimming pool,garden,balcony",16143533.0,2025-05-21,2183.99531,7391.743437397767,1,1,0,0,1,0,0,0,1,1,May
+8,Embakasi,Apartment,5,1,175.0,"elevator,security,garden,gym,servant quarter",15729076.0,2025-10-29,1883.6825,8350.173662493547,0,0,0,1,1,1,0,1,1,0,October
+9,South B,Penthouse,5,2,114.6,"backup generator,gym,balcony",15125347.0,2025-06-10,1233.5429399999998,12261.710970515547,1,1,0,0,0,1,0,0,0,0,June
+10,South B,Townhouse,3,4,142.3,"cctv,security",14223387.0,2025-01-18,1531.70297,9285.99557393298,0,0,1,0,0,0,0,1,0,0,January
+11,Syokimau,Studio,3,1,216.1,"balcony,gym",18087946.0,2025-02-24,2326.07879,7776.153618596901,0,1,0,0,0,1,0,0,0,0,February
+12,Ruaka,Penthouse,5,3,317.5,"garden,servant quarter,security",23512578.0,2025-08-04,3417.53825,6879.975081478605,0,0,0,0,1,0,0,1,1,0,August
+13,South C,Studio,3,3,124.4,"parking,balcony",15505759.0,2025-03-24,1339.02916,11579.85162922068,0,1,0,0,0,0,1,0,0,0,March
+14,Westlands,Apartment,5,1,342.8,"parking,servant quarter",26247669.0,2025-01-24,3689.86492,7113.449833280076,0,0,0,0,0,0,1,0,1,0,January
+15,Roysambu,Bungalow,1,1,186.7,"cctv,servant quarter,gym,security,garden",12144097.0,2025-11-30,2009.6201299999998,6042.981366831751,0,0,1,0,1,1,0,1,1,0,November
+16,Kileleshwa,Penthouse,3,2,92.6,"elevator,swimming pool,balcony",16057319.0,2025-03-29,996.73714,16109.883293804021,0,1,0,1,0,0,0,0,0,1,March
+17,Syokimau,Maisonette,1,1,172.8,"balcony,servant quarter,swimming pool,garden,elevator",12841817.0,2025-09-29,1860.0019200000002,6904.195561260495,0,1,0,1,1,0,0,0,1,1,September
+18,Kasarani,Studio,5,6,185.6,"elevator,servant quarter,cctv,balcony,backup generator",17660576.0,2025-01-29,1997.77984,8840.101219561811,1,1,1,1,0,0,0,0,1,0,January
+19,Karen,Bungalow,3,3,273.8,"gym,parking",35945899.0,2025-03-16,2947.15582,12196.809804240347,0,0,0,0,0,1,1,0,0,0,March
+20,Parklands,Townhouse,1,2,108.1,"security,servant quarter",11462853.0,2025-05-11,1163.5775899999999,9851.386876572624,0,0,0,0,0,0,0,1,1,0,May
+21,South B,Apartment,4,2,270.1,"security,gym,elevator,garden",19549199.0,2025-09-25,2907.3293900000003,6724.10875329128,0,0,0,1,1,1,0,1,0,0,September
+22,Kileleshwa,Maisonette,3,1,150.0,"balcony,servant quarter,backup generator",17281269.0,2025-02-16,1614.585,10703.226525701652,1,1,0,0,0,0,0,0,1,0,February
+23,Ngong Road,Maisonette,4,2,295.3,"balcony,garden,swimming pool",20013284.0,2025-04-30,3178.57967,6296.297742318348,0,1,0,0,1,0,0,0,0,1,April
+24,Parklands,Bungalow,1,1,325.7,"garden,parking",16199588.0,2025-11-24,3505.80223,4620.793455311368,0,0,0,0,1,0,1,0,0,0,November
+25,Kilimani,Apartment,1,2,116.1,"servant quarter,balcony,parking,backup generator",14525573.0,2025-10-02,1249.68879,11623.352242761177,1,1,0,0,0,0,1,0,1,0,October
+26,Karen,Studio,5,6,179.3,"backup generator,swimming pool",35664960.0,2025-07-16,1929.96727,18479.56727266157,1,0,0,0,0,0,0,0,0,1,July
+27,Kileleshwa,Maisonette,5,4,378.5,"servant quarter,elevator,parking",24554265.0,2025-09-05,4074.13615,6026.864124312586,0,0,0,1,0,0,1,0,1,0,September
+28,South C,Townhouse,5,6,311.9,"security,parking,servant quarter",22173628.0,2025-11-16,3357.2604099999994,6604.67920032453,0,0,0,0,0,0,1,1,1,0,November
+29,Karen,Studio,1,1,202.6,"parking,security,garden",28491573.0,2025-01-27,2180.7661399999997,13064.937352704863,0,0,0,0,1,0,1,1,0,0,January
+30,Kasarani,Bungalow,3,2,48.3,"gym,backup generator,cctv,balcony",9053901.0,2025-04-13,519.8963699999999,17414.81864933968,1,1,1,0,0,1,0,0,0,0,April
+31,Runda,Penthouse,1,1,127.1,"parking,gym,servant quarter,cctv,swimming pool",35212261.0,2025-06-30,1368.09169,25738.231770123537,0,0,1,0,0,1,1,0,1,1,June
+32,Kileleshwa,Townhouse,3,4,155.9,"swimming pool,gym,parking,balcony,garden",16081426.0,2025-10-26,1678.09201,9583.161056824292,0,1,0,0,1,1,1,0,0,1,October
+33,Roysambu,Townhouse,5,3,323.2,"elevator,security,gym,cctv",19194573.0,2025-02-16,3478.8924799999995,5517.437836998056,0,0,1,1,0,1,0,1,0,0,February
+34,Kileleshwa,Bungalow,3,3,98.4,"cctv,garden,servant quarter,elevator",16976038.0,2025-06-17,1059.16776,16027.714061085091,0,0,1,1,1,0,0,0,1,0,June
+35,South B,Maisonette,1,2,116.1,"parking,garden,security,cctv,servant quarter",11253805.0,2025-06-29,1249.68879,9005.286028051833,0,0,1,0,1,0,1,1,1,0,June
+36,Westlands,Townhouse,5,3,184.4,"parking,elevator,backup generator,garden",23792978.0,2025-12-26,1984.8631599999999,11987.213264616186,1,0,0,1,1,0,1,0,0,0,December
+37,Karen,Maisonette,3,4,52.0,"backup generator,balcony",31497461.0,2025-07-05,559.7228,56273.3213655045,1,1,0,0,0,0,0,0,0,0,July
+38,Kileleshwa,Bungalow,5,3,297.5,"servant quarter,swimming pool,elevator",24042848.0,2025-05-22,3202.26025,7508.086827109071,0,0,0,1,0,0,0,0,1,1,May
+39,Runda,Apartment,2,2,232.7,"security,parking,gym,servant quarter",40069844.0,2025-07-13,2504.75953,15997.481402935317,0,0,0,0,0,1,1,1,1,0,July
+40,Kilimani,Penthouse,2,1,253.8,"garden,gym,parking,backup generator",17473924.0,2025-04-11,2731.87782,6396.305088051119,1,0,0,0,1,1,1,0,0,0,April
+41,Embakasi,Penthouse,4,4,331.0,"backup generator,elevator,swimming pool",19541829.0,2026-01-29,3562.8509,5484.88543261802,1,0,0,1,0,0,0,0,0,1,January
+42,Ruaka,Bungalow,3,1,180.2,"cctv,backup generator,balcony,garden",15477214.0,2025-10-12,1939.6547799999998,7979.365276536478,1,1,1,0,1,0,0,0,0,0,October
+43,Kileleshwa,Studio,1,2,130.7,"servant quarter,cctv,parking,gym,garden",14876696.0,2025-12-19,1406.8417299999999,10574.534208620611,0,0,1,0,1,1,1,0,1,0,December
+44,Kileleshwa,Bungalow,3,1,319.7,"servant quarter,garden,parking,backup generator",20958940.0,2025-09-06,3441.21883,6090.557164596243,1,0,0,0,1,0,1,0,1,0,September
+45,South B,Apartment,4,3,96.7,"cctv,security,gym",12166741.0,2025-01-15,1040.86913,11689.020885843736,0,0,1,0,0,1,0,1,0,0,January
+46,South C,Bungalow,5,4,123.2,"swimming pool,backup generator",16576821.0,2025-04-16,1326.11248,12500.312944796357,1,0,0,0,0,0,0,0,0,1,April
+47,Kileleshwa,Bungalow,1,2,341.5,"swimming pool,cctv,garden",19862266.0,2025-05-23,3675.87185,5403.416335093401,0,0,1,0,1,0,0,0,0,1,May
+48,Parklands,Maisonette,3,4,149.5,"security,elevator,swimming pool",15184921.0,2025-06-16,1609.2030499999998,9436.298918275106,0,0,0,1,0,0,0,1,0,1,June
+49,Syokimau,Maisonette,4,2,228.3,"servant quarter,swimming pool,balcony,garden",19248925.0,2025-10-31,2457.39837,7833.05028398794,0,1,0,0,1,0,0,0,1,1,October
+50,South C,Bungalow,5,6,148.0,"swimming pool,balcony,security",17761628.0,2025-10-06,1593.0572,11149.397523202557,0,1,0,0,0,0,0,1,0,1,October
+51,Syokimau,Penthouse,5,4,67.5,"security,cctv",14135081.0,2025-05-24,726.5632499999999,19454.715057498437,0,0,1,0,0,0,0,1,0,0,May
+52,Embakasi,Maisonette,3,3,319.2,"balcony,cctv",18124115.0,2025-05-25,3435.83688,5275.0219620437865,0,1,1,0,0,0,0,0,0,0,May
+53,Embakasi,Townhouse,1,2,246.0,"cctv,swimming pool,backup generator,parking,servant quarter",13346799.0,2025-12-27,2647.9193999999998,5040.485371269232,1,0,1,0,0,0,1,0,1,1,December
+54,Runda,Townhouse,1,1,385.0,"cctv,balcony,gym,servant quarter",40779310.0,2025-11-06,4144.1015,9840.32606344222,0,1,1,0,0,1,0,0,1,0,November
+55,Karen,Townhouse,1,1,91.9,"garden,backup generator",29592134.0,2025-05-30,989.20241,29915.145475636276,1,0,0,0,1,0,0,0,0,0,May
+56,Kileleshwa,Maisonette,4,5,106.4,"garden,swimming pool,servant quarter,elevator,balcony",16701912.0,2025-01-08,1145.27896,14583.269738928931,0,1,0,1,1,0,0,0,1,1,January
+57,South B,Penthouse,5,5,80.0,"balcony,swimming pool,parking,gym",14308887.0,2025-03-06,861.112,16616.754847220804,0,1,0,0,0,1,1,0,0,1,March
+58,Parklands,Townhouse,1,2,114.6,"elevator,servant quarter,gym,garden",12328246.0,2025-07-23,1233.5429399999998,9994.1766113144,0,0,0,1,1,1,0,0,1,0,July
+59,Lavington,Apartment,3,4,33.7,"balcony,cctv,swimming pool,gym",18270760.0,2025-10-16,362.74343,50368.27269345719,0,1,1,0,0,1,0,0,0,1,October
+60,South C,Apartment,1,1,166.3,"servant quarter,backup generator",11140694.0,2025-07-06,1790.03657,6223.724244918639,1,0,0,0,0,0,0,0,1,0,July
+61,South C,Studio,5,5,131.2,"backup generator,gym,elevator",17506140.0,2026-01-26,1412.2236799999998,12396.152428204576,1,0,0,1,0,1,0,0,0,0,January
+62,Parklands,Maisonette,5,5,308.6,"backup generator,parking,cctv,security",23430307.0,2025-05-10,3321.73954,7053.625583178626,1,0,1,0,0,0,1,1,0,0,May
+63,Embakasi,Townhouse,1,2,260.2,"garden,security,gym",13563007.0,2025-12-07,2800.76678,4842.604924070115,0,0,0,0,1,1,0,1,0,0,December
+64,Embakasi,Studio,2,1,128.3,"gym,parking,backup generator",9017491.0,2025-02-21,1381.00837,6529.642539385913,1,0,0,0,0,1,1,0,0,0,February
+65,Westlands,Studio,1,2,240.3,"garden,cctv,balcony",19478850.0,2025-01-21,2586.56517,7530.778743146843,0,1,1,0,1,0,0,0,0,0,January
+66,Karen,Penthouse,1,1,90.6,"servant quarter,elevator,backup generator",29382568.0,2025-03-07,975.2093399999999,30129.498144470195,1,0,0,1,0,0,0,0,1,0,March
+67,Kileleshwa,Studio,2,2,56.2,"elevator,servant quarter,security",12565720.0,2025-11-19,604.93118,20772.147998719458,0,0,0,1,0,0,0,1,1,0,November
+68,Karen,Studio,4,2,369.2,"elevator,balcony",40440528.0,2025-11-16,3974.0318799999995,10176.196170826894,0,1,0,1,0,0,0,0,0,0,November
+69,Lavington,Townhouse,1,2,108.0,"balcony,servant quarter",16455264.0,2025-06-22,1162.5012,14155.051194785865,0,1,0,0,0,0,0,0,1,0,June
+70,Ruaka,Penthouse,3,2,229.7,"parking,security,servant quarter,elevator,swimming pool",18950965.0,2025-05-21,2472.4678299999996,7664.7974020353595,0,0,0,1,0,0,1,1,1,1,May
+71,Kileleshwa,Studio,3,3,259.8,"gym,servant quarter",20023403.0,2025-10-20,2796.46122,7160.264857883493,0,0,0,0,0,1,0,0,1,0,October
+72,Westlands,Studio,1,1,138.8,"swimming pool,cctv,servant quarter,parking,security",16474243.0,2026-01-12,1494.02932,11026.720011090545,0,0,1,0,0,0,1,1,1,1,January
+73,Syokimau,Apartment,3,2,37.7,"garden,swimming pool,gym,parking",13261032.0,2025-10-30,405.79903,32678.816408210732,0,0,0,0,1,1,1,0,0,1,October
+74,Westlands,Studio,5,3,145.6,"cctv,backup generator,parking,servant quarter",23008546.0,2025-04-20,1567.2238399999999,14681.084738986616,1,0,1,0,0,0,1,0,1,0,April
+75,Kilimani,Studio,2,2,55.1,"balcony,gym,swimming pool,security,elevator",14534934.0,2025-05-30,593.09089,24507.093676653847,0,1,0,1,0,1,0,1,0,1,May
+76,Runda,Bungalow,5,1,310.4,"swimming pool,backup generator",44892008.0,2025-11-09,3341.1145599999995,13436.237277658629,1,0,0,0,0,0,0,0,0,1,November
+77,South B,Apartment,1,2,163.8,"parking,security,swimming pool",12691520.0,2026-01-06,1763.12682,7198.302388707353,0,0,0,0,0,0,1,1,0,1,January
+78,Ngong Road,Maisonette,4,3,228.7,"swimming pool,elevator,backup generator,parking,balcony",18054059.0,2025-08-17,2461.7039299999997,7333.968467930261,1,1,0,1,0,0,1,0,0,1,August
+79,Kasarani,Maisonette,5,6,212.7,"gym,balcony,security,parking",17254808.0,2025-04-20,2289.4815299999996,7536.556977596584,0,1,0,0,0,1,1,1,0,0,April
+80,Lavington,Townhouse,4,2,191.6,"balcony,cctv,backup generator",22749282.0,2025-08-09,2062.3632399999997,11030.68633050306,1,1,1,0,0,0,0,0,0,0,August
+81,Parklands,Bungalow,3,2,31.6,"gym,backup generator",12569085.0,2025-08-08,340.13924000000003,36952.76381519521,1,0,0,0,0,1,0,0,0,0,August
+82,Lavington,Townhouse,5,5,265.1,"backup generator,parking",26087594.0,2026-02-03,2853.5098900000003,9142.282664385648,1,0,0,0,0,0,1,0,0,0,February
+83,Lavington,Townhouse,2,3,315.9,"elevator,balcony",24150988.0,2025-09-24,3400.3160099999996,7102.571622453409,0,1,0,1,0,0,0,0,0,0,September
+84,South B,Apartment,4,5,399.1,"parking,security",23204944.0,2025-06-28,4295.87249,5401.68360537163,0,0,0,0,0,0,1,1,0,0,June
+85,Runda,Apartment,3,2,244.6,"elevator,cctv,swimming pool,garden",41218776.0,2025-09-02,2632.84994,15655.573594900741,0,0,1,1,1,0,0,0,0,1,September
+86,Roysambu,Apartment,3,3,66.9,"backup generator,swimming pool,balcony",13478477.0,2025-10-11,720.10491,18717.379666248908,1,1,0,0,0,0,0,0,0,1,October
+87,Ngong Road,Townhouse,3,1,106.1,"cctv,security,gym,elevator,servant quarter",13932931.0,2025-09-15,1142.0497899999998,12199.933069468016,0,0,1,1,0,1,0,1,1,0,September
+88,South C,Studio,2,2,264.5,"security,cctv,garden,swimming pool",14616306.0,2025-06-06,2847.0515499999997,5133.83960329064,0,0,1,0,1,0,0,1,0,1,June
+89,Parklands,Studio,3,2,165.6,"elevator,parking,swimming pool,gym,backup generator",18280409.0,2025-12-08,1782.50184,10255.478333755886,1,0,0,1,0,1,1,0,0,1,December
+90,Kilimani,Penthouse,1,1,58.9,"garden,security,elevator,swimming pool",11690496.0,2025-07-21,633.99371,18439.45107909667,0,0,0,1,1,0,0,1,0,1,July
+91,South C,Bungalow,2,2,98.8,"elevator,cctv",11829015.0,2025-09-26,1063.4733199999998,11123.00118633912,0,0,1,1,0,0,0,0,0,0,September
+92,Roysambu,Bungalow,1,2,79.0,"parking,security,servant quarter,gym",8506993.0,2025-08-26,850.3480999999999,10004.130073319386,0,0,0,0,0,1,1,1,1,0,August
+93,Kileleshwa,Apartment,1,1,161.5,"swimming pool,backup generator,cctv",13365085.0,2025-12-28,1738.36985,7688.286241273685,1,0,1,0,0,0,0,0,0,1,December
+94,Ruaka,Penthouse,2,3,245.3,"gym,backup generator,security,cctv,balcony",15582256.0,2025-04-04,2640.38467,5901.509797812908,1,1,1,0,0,1,0,1,0,0,April
+95,Syokimau,Studio,2,1,366.8,"gym,parking,garden,cctv,swimming pool",20259252.0,2025-01-08,3948.19852,5131.264777435761,0,0,1,0,1,1,1,0,0,1,January
+96,Runda,Studio,1,2,331.4,"balcony,gym,parking,backup generator,cctv",40265590.0,2025-03-14,3567.1564599999997,11287.86764794724,1,1,1,0,0,1,1,0,0,0,March
+97,Ngong Road,Maisonette,1,1,80.4,"elevator,garden,cctv,security,parking",10841836.0,2025-05-31,865.41756,12527.866894681454,0,0,1,1,1,0,1,1,0,0,May
+98,Parklands,Apartment,3,1,167.7,"cctv,garden,security,servant quarter",16334980.0,2025-09-23,1805.10603,9049.318836966047,0,0,1,0,1,0,0,1,1,0,September
+99,Embakasi,Studio,3,1,205.4,"parking,balcony,elevator,servant quarter,gym",14191702.0,2025-03-11,2210.90506,6418.95586416542,0,1,0,1,0,1,1,0,1,0,March
+100,Syokimau,Townhouse,2,2,196.7,"elevator,security,cctv,swimming pool",15627401.0,2025-02-21,2117.25913,7380.958135247243,0,0,1,1,0,0,0,1,0,1,February
+101,Syokimau,Bungalow,2,3,269.0,"balcony,servant quarter,parking,elevator,backup generator",17465907.0,2025-12-05,2895.4891,6032.10939388444,1,1,0,1,0,0,1,0,1,0,December
+102,Roysambu,Apartment,1,2,183.9,"gym,elevator",11883871.0,2025-10-21,1979.48121,6003.528065820842,0,0,0,1,0,1,0,0,0,0,October
+103,Ngong Road,Townhouse,3,3,51.9,"gym,backup generator",13517460.0,2025-08-14,558.64641,24196.808138443066,1,0,0,0,0,1,0,0,0,0,August
+104,Lavington,Penthouse,3,4,389.4,"balcony,parking",26083516.0,2025-11-18,4191.462659999999,6223.010465754693,0,1,0,0,0,0,1,0,0,0,November
+105,Parklands,Bungalow,3,2,203.8,"backup generator,gym,cctv,servant quarter,security",16169186.0,2025-10-31,2193.68282,7370.794835326285,1,0,1,0,0,1,0,1,1,0,October
+106,Kasarani,Studio,4,2,215.1,"garden,parking",16107157.0,2025-12-05,2315.3148899999997,6956.7889316342635,0,0,0,0,1,0,1,0,0,0,December
+107,Parklands,Studio,3,4,259.3,"parking,gym,swimming pool,balcony,backup generator",19407793.0,2025-04-12,2791.07927,6953.5083466117385,1,1,0,0,0,1,1,0,0,1,April
+108,Karen,Apartment,5,2,243.1,"gym,parking",38070816.0,2025-01-05,2616.7040899999997,14549.14835249866,0,0,0,0,0,1,1,0,0,0,January
+109,Syokimau,Bungalow,2,1,320.6,"balcony,security,backup generator,parking,gym",17034384.0,2025-12-30,3450.90634,4936.205831654069,1,1,0,0,0,1,1,1,0,0,December
+110,Parklands,Apartment,4,4,179.2,"elevator,swimming pool,garden",17237801.0,2025-03-04,1928.8908799999997,8936.63875895354,0,0,0,1,1,0,0,0,0,1,March
+111,Parklands,Studio,2,1,158.7,"gym,servant quarter,security,parking",14864737.0,2025-10-16,1708.2309299999997,8701.831080883194,0,0,0,0,0,1,1,1,1,0,October
+112,Lavington,Townhouse,5,5,49.2,"servant quarter,elevator,balcony,cctv,security",20934575.0,2025-11-08,529.58388,39530.234568318054,0,1,1,1,0,0,0,1,1,0,November
+113,Roysambu,Apartment,5,5,160.6,"backup generator,servant quarter,swimming pool,gym,balcony",17471500.0,2025-06-01,1728.6823399999998,10106.830847823667,1,1,0,0,0,1,0,0,1,1,June
+114,Roysambu,Townhouse,3,4,108.9,"gym,backup generator,cctv",12880100.0,2025-06-20,1172.1887100000001,10988.077167199468,1,0,1,0,0,1,0,0,0,0,June
+115,South B,Studio,3,2,200.2,"gym,parking",17288468.0,2025-11-15,2154.9327799999996,8022.741201235986,0,0,0,0,0,1,1,0,0,0,November
+116,Kileleshwa,Townhouse,2,3,108.0,"security,backup generator",13004840.0,2025-06-21,1162.5012,11186.947591968077,1,0,0,0,0,0,0,1,0,0,June
+117,Ngong Road,Apartment,5,3,33.7,"swimming pool,security,balcony,servant quarter,parking",15777269.0,2025-10-09,362.74343,43494.29292213508,0,1,0,0,0,0,1,1,1,1,October
+118,Ngong Road,Maisonette,1,2,51.9,"security,swimming pool,servant quarter,garden",10210544.0,2025-02-23,558.64641,18277.292787042166,0,0,0,0,1,0,0,1,1,1,February
+119,South C,Studio,5,2,201.8,"backup generator,parking",18050094.0,2025-07-17,2172.15502,8309.763269105903,1,0,0,0,0,0,1,0,0,0,July
+120,Lavington,Apartment,1,1,386.8,"servant quarter,balcony,parking,gym",23952161.0,2025-08-23,4163.47652,5752.923280566501,0,1,0,0,0,1,1,0,1,0,August
+121,Ruaka,Apartment,5,6,85.1,"parking,servant quarter",16267436.0,2025-07-04,916.0078899999999,17759.056638693364,0,0,0,0,0,0,1,0,1,0,July
+122,Kilimani,Maisonette,1,1,118.5,"gym,swimming pool,parking",13278147.0,2025-02-23,1275.52215,10409.969752387287,0,0,0,0,0,1,1,0,0,1,February
+123,Embakasi,Bungalow,1,2,158.8,"backup generator,security,swimming pool",9372622.0,2025-12-07,1709.3073200000001,5483.286645025308,1,0,0,0,0,0,0,1,0,1,December
+124,Westlands,Penthouse,2,1,326.7,"parking,balcony",22045599.0,2025-04-13,3516.5661299999997,6269.0699349936585,0,1,0,0,0,0,1,0,0,0,April
+125,Kasarani,Maisonette,1,2,256.9,"elevator,security",12053430.0,2026-02-02,2765.2459099999996,4358.899856396497,0,0,0,1,0,0,0,1,0,0,February
+126,Ruaka,Studio,2,1,391.3,"balcony,swimming pool,security,servant quarter,garden",19778132.0,2025-08-07,4211.91407,4695.758667270246,0,1,0,0,1,0,0,1,1,1,August
+127,Kileleshwa,Penthouse,5,2,397.9,"balcony,swimming pool,parking",27173570.0,2025-07-29,4282.9558099999995,6344.583321769085,0,1,0,0,0,0,1,0,0,1,July
+128,Karen,Studio,4,2,209.1,"elevator,servant quarter",36149391.0,2025-04-27,2250.7314899999997,16061.1744051264,0,0,0,1,0,0,0,0,1,0,April
+129,Embakasi,Studio,4,3,181.7,"elevator,swimming pool,parking,security,garden",15792017.0,2025-03-31,1955.8006299999997,8074.451330962094,0,0,0,1,1,0,1,1,0,1,March
+130,Kilimani,Studio,2,2,398.7,"balcony,parking",20503942.0,2025-04-04,4291.56693,4777.7285859549675,0,1,0,0,0,0,1,0,0,0,April
+131,Ngong Road,Apartment,2,1,176.2,"security,parking,cctv,balcony",15994991.0,2025-11-20,1896.5991799999997,8433.511502414549,0,1,1,0,0,0,1,1,0,0,November
+132,Kilimani,Studio,2,3,38.2,"servant quarter,cctv",11404074.0,2025-07-13,411.18098000000003,27734.925871327996,0,0,1,0,0,0,0,0,1,0,July
+133,Roysambu,Apartment,1,1,151.8,"balcony,elevator,garden,security,cctv",11336159.0,2025-02-19,1633.96002,6937.843558742643,0,1,1,1,1,0,0,1,0,0,February
+134,South B,Townhouse,3,4,223.4,"garden,parking",15655476.0,2025-12-04,2404.65526,6510.486663273305,0,0,0,0,1,0,1,0,0,0,December
+135,Embakasi,Bungalow,4,1,240.4,"servant quarter,balcony,security",14126838.0,2025-08-28,2587.64156,5459.348859739291,0,1,0,0,0,0,0,1,1,0,August
+136,Kilimani,Bungalow,2,1,299.0,"cctv,elevator",17491331.0,2025-06-27,3218.4060999999997,5434.780589062394,0,0,1,1,0,0,0,0,0,0,June
+137,South B,Studio,4,3,275.3,"security,gym",19882205.0,2025-10-03,2963.30167,6709.477202839089,0,0,0,0,0,1,0,1,0,0,October
+138,Parklands,Bungalow,5,3,42.8,"elevator,cctv,garden,servant quarter",17396681.0,2025-05-08,460.69491999999997,37761.8251141124,0,0,1,1,1,0,0,0,1,0,May
+139,Ngong Road,Townhouse,2,2,46.5,"gym,security,parking,balcony,servant quarter",11918750.0,2026-01-26,500.52135,23812.670528439998,0,1,0,0,0,1,1,1,1,0,January
+140,Lavington,Maisonette,4,5,91.6,"servant quarter,gym,parking",22056455.0,2025-10-03,985.9732399999999,22370.23694476739,0,0,0,0,0,1,1,0,1,0,October
+141,Kasarani,Townhouse,2,1,316.3,"backup generator,balcony,garden,swimming pool,security",18343516.0,2025-08-23,3404.62157,5387.828169108381,1,1,0,0,1,0,0,1,0,1,August
+142,Kileleshwa,Studio,4,1,284.5,"gym,parking,cctv,swimming pool,backup generator",23836198.0,2025-01-30,3062.32955,7783.681544006262,1,0,1,0,0,1,1,0,0,1,January
+143,Syokimau,Maisonette,3,1,91.6,"elevator,gym,backup generator",13178432.0,2025-01-17,985.9732399999999,13365.912446061924,1,0,0,1,0,1,0,0,0,0,January
+144,Roysambu,Penthouse,3,4,168.9,"servant quarter,parking,swimming pool",12828511.0,2025-05-29,1818.02271,7056.2985431573625,0,0,0,0,0,0,1,0,1,1,May
+145,Ngong Road,Studio,1,1,304.2,"elevator,gym",18105418.0,2025-01-13,3274.3783799999997,5529.421434794595,0,0,0,1,0,1,0,0,0,0,January
+146,Runda,Studio,3,3,35.5,"swimming pool,servant quarter,elevator,balcony",34131880.0,2025-11-09,382.11845,89322.77412933084,0,1,0,1,0,0,0,0,1,1,November
+147,South B,Townhouse,5,5,220.2,"security,elevator,garden",16891807.0,2025-09-16,2370.21078,7126.710899525991,0,0,0,1,1,0,0,1,0,0,September
+148,Kileleshwa,Apartment,3,1,191.1,"elevator,security,cctv",16647914.0,2025-01-21,2056.9812899999997,8093.3716222571975,0,0,1,1,0,0,0,1,0,0,January
+149,Karen,Maisonette,3,3,273.4,"swimming pool,balcony,garden,gym,security",34621109.0,2025-06-12,2942.8502599999997,11764.482029744864,0,1,0,0,1,1,0,1,0,1,June
+150,Kilimani,Penthouse,2,1,330.3,"elevator,security",19812382.0,2025-11-27,3555.31617,5572.6076254984655,0,0,0,1,0,0,0,1,0,0,November
+151,Runda,Penthouse,2,1,270.8,"security,cctv,parking,balcony",39766566.0,2025-03-12,2914.86412,13642.682596127328,0,1,1,0,0,0,1,1,0,0,March
+152,Parklands,Bungalow,5,5,229.0,"balcony,garden,swimming pool,gym,backup generator",21509502.0,2025-02-15,2464.9330999999997,8726.201128947476,1,1,0,0,1,1,0,0,0,1,February
+153,Parklands,Townhouse,2,2,128.5,"elevator,swimming pool,cctv,parking",16423464.0,2026-01-09,1383.16115,11873.861552574695,0,0,1,1,0,0,1,0,0,1,January
+154,Kilimani,Maisonette,5,3,78.9,"elevator,cctv,servant quarter",18216783.0,2025-10-02,849.27171,21449.887928093118,0,0,1,1,0,0,0,0,1,0,October
+155,South C,Townhouse,1,1,86.3,"backup generator,security,garden,cctv,gym",9530354.0,2025-03-22,928.9245699999999,10259.55638141857,1,0,1,0,1,1,0,1,0,0,March
+156,Parklands,Penthouse,2,1,98.1,"backup generator,garden,parking,cctv,swimming pool",12792854.0,2025-04-23,1055.93859,12115.149613009218,1,0,1,0,1,0,1,0,0,1,April
+157,Karen,Townhouse,2,2,200.2,"balcony,gym,garden,cctv",32037487.0,2026-01-25,2154.9327799999996,14867.047036149315,0,1,1,0,1,1,0,0,0,0,January
+158,Parklands,Penthouse,4,2,199.3,"cctv,backup generator",18662003.0,2025-12-22,2145.24527,8699.239784362746,1,0,1,0,0,0,0,0,0,0,December
+159,Westlands,Penthouse,1,1,58.6,"cctv,gym,swimming pool,security,servant quarter",14296663.0,2025-06-12,630.76454,22665.609896206275,0,0,1,0,0,1,0,1,1,1,June
+160,South C,Penthouse,4,4,127.0,"balcony,backup generator,parking",16317587.0,2025-02-01,1367.0153,11936.652793864121,1,1,0,0,0,0,1,0,0,0,February
+161,Westlands,Bungalow,3,3,72.6,"elevator,cctv,backup generator",16454770.0,2025-09-10,781.4591399999999,21056.468800147377,1,0,1,1,0,0,0,0,0,0,September
+162,Roysambu,Studio,4,2,206.3,"cctv,security,backup generator,parking,elevator",15551333.0,2025-11-03,2220.5925700000003,7003.235627326268,1,0,1,1,0,0,1,1,0,0,November
+163,Kasarani,Townhouse,5,4,385.8,"elevator,gym,parking",22297250.0,2025-11-20,4152.71262,5369.321703749391,0,0,0,1,0,1,1,0,0,0,November
+164,Kileleshwa,Apartment,2,1,123.8,"cctv,servant quarter,security",15262633.0,2025-02-08,1332.57082,11453.524849058305,0,0,1,0,0,0,0,1,1,0,February
+165,Parklands,Studio,3,1,340.6,"security,cctv,gym",20182349.0,2025-03-28,3666.1843400000002,5505.001147869177,0,0,1,0,0,1,0,1,0,0,March
+166,Ruaka,Bungalow,2,3,140.7,"garden,elevator,balcony,servant quarter,gym",14420064.0,2025-08-23,1514.4807299999998,9521.45756255347,0,1,0,1,1,1,0,0,1,0,August
+167,Ruaka,Studio,3,3,361.2,"gym,swimming pool",20463364.0,2025-06-30,3887.9206799999997,5263.318283540702,0,0,0,0,0,1,0,0,0,1,June
+168,Kilimani,Penthouse,4,2,113.8,"security,servant quarter,elevator",17535173.0,2025-01-11,1224.93182,14315.22368322508,0,0,0,1,0,0,0,1,1,0,January
+169,Roysambu,Penthouse,2,2,132.9,"servant quarter,garden,backup generator,elevator,gym",11976158.0,2025-06-12,1430.52231,8371.877821325275,1,0,0,1,1,1,0,0,1,0,June
+170,Parklands,Bungalow,3,4,124.5,"swimming pool,cctv,elevator,garden",14832913.0,2025-08-14,1340.10555,11068.466211486102,0,0,1,1,1,0,0,0,0,1,August
+171,Karen,Studio,2,1,68.7,"security,backup generator,garden,servant quarter",28297395.0,2025-05-25,739.47993,38266.61664772971,1,0,0,0,1,0,0,1,1,0,May
+172,Parklands,Studio,3,2,235.1,"parking,security",19642466.0,2025-08-26,2530.59289,7762.00157584415,0,0,0,0,0,0,1,1,0,0,August
+173,Ngong Road,Bungalow,3,2,176.3,"balcony,backup generator",15502637.0,2025-01-21,1897.67557,8169.276795822375,1,1,0,0,0,0,0,0,0,0,January
+174,Ruaka,Studio,1,2,35.7,"swimming pool,servant quarter",10347280.0,2025-02-19,384.27123,26927.022353455915,0,0,0,0,0,0,0,0,1,1,February
+175,Westlands,Apartment,2,3,256.9,"security,garden,balcony,backup generator,cctv",20112167.0,2025-08-12,2765.2459099999996,7273.192929159781,1,1,1,0,1,0,0,1,0,0,August
+176,Kasarani,Maisonette,1,2,337.3,"swimming pool,servant quarter,garden",15211472.0,2025-05-27,3630.66347,4189.72238151282,0,0,0,0,1,0,0,0,1,1,May
+177,Syokimau,Maisonette,4,4,52.9,"backup generator,garden,parking",12514023.0,2025-10-17,569.41031,21977.162654466163,1,0,0,0,1,0,1,0,0,0,October
+178,Westlands,Penthouse,3,2,263.8,"swimming pool,garden",22082795.0,2025-10-27,2839.51682,7776.955165210115,0,0,0,0,1,0,0,0,0,1,October
+179,Runda,Bungalow,3,2,203.4,"balcony,security,cctv,elevator,servant quarter",39814391.0,2025-11-15,2189.3772599999998,18185.258304911782,0,1,1,1,0,0,0,1,1,0,November
+180,Ruaka,Apartment,2,1,346.3,"parking,gym,garden,security,cctv",18928798.0,2025-04-24,3727.53857,5078.0958116283155,0,0,1,0,1,1,1,1,0,0,April
+181,Syokimau,Studio,5,3,129.3,"elevator,servant quarter,security,gym,garden",16276309.0,2025-03-14,1391.7722700000002,11694.66395533229,0,0,0,1,1,1,0,1,1,0,March
+182,Ngong Road,Townhouse,4,1,156.5,"security,cctv",17386239.0,2025-09-23,1684.55035,10320.996935473018,0,0,1,0,0,0,0,1,0,0,September
+183,Runda,Penthouse,1,1,235.0,"swimming pool,garden",38309326.0,2025-10-09,2529.5164999999997,15144.920383006003,0,0,0,0,1,0,0,0,0,1,October
+184,South C,Townhouse,3,2,142.2,"servant quarter,gym,security,backup generator",14174822.0,2025-04-04,1530.6265799999999,9260.79697374653,1,0,0,0,0,1,0,1,1,0,April
+185,Ruaka,Apartment,4,4,315.6,"security,gym,parking,backup generator",21447662.0,2025-05-15,3397.08684,6313.545402330663,1,0,0,0,0,1,1,1,0,0,May
+186,Ngong Road,Townhouse,4,2,302.1,"swimming pool,servant quarter",20497439.0,2026-01-28,3251.77419,6303.463218028678,0,0,0,0,0,0,0,0,1,1,January
+187,South B,Townhouse,5,2,284.0,"security,swimming pool,elevator",20177927.0,2025-01-08,3056.9476,6600.678075083786,0,0,0,1,0,0,0,1,0,1,January
+188,Syokimau,Maisonette,3,3,68.1,"security,elevator,swimming pool,servant quarter",13615279.0,2025-08-07,733.02159,18574.185516145575,0,0,0,1,0,0,0,1,1,1,August
+189,Westlands,Bungalow,1,1,162.6,"cctv,elevator,balcony,backup generator",15628696.0,2025-06-06,1750.21014,8929.611160863233,1,1,1,1,0,0,0,0,0,0,June
+190,Ruaka,Studio,3,2,33.3,"swimming pool,elevator,balcony,security,cctv",11679685.0,2025-12-23,358.43787,32584.963748389648,0,1,1,1,0,0,0,1,0,1,December
+191,Lavington,Bungalow,3,4,193.2,"servant quarter,garden",21501396.0,2025-02-14,2079.5854799999997,10339.270112618791,0,0,0,0,1,0,0,0,1,0,February
+192,Ngong Road,Apartment,4,2,98.6,"gym,parking,balcony,backup generator,swimming pool",17123253.0,2025-09-09,1061.32054,16133.91275740315,1,1,0,0,0,1,1,0,0,1,September
+193,Ruaka,Maisonette,5,2,347.2,"balcony,gym",24157203.0,2026-01-08,3737.22608,6463.939425361176,0,1,0,0,0,1,0,0,0,0,January
+194,Westlands,Townhouse,5,5,200.9,"gym,servant quarter,elevator",24118901.0,2025-02-06,2162.46751,11153.416589366469,0,0,0,1,0,1,0,0,1,0,February
+195,Roysambu,Penthouse,2,2,162.7,"security,swimming pool,cctv,servant quarter,parking",14418401.0,2025-03-08,1751.2865299999999,8233.033688667725,0,0,1,0,0,0,1,1,1,1,March
+196,Embakasi,Penthouse,1,2,90.5,"gym,balcony,security,backup generator,garden",7135516.0,2025-05-31,974.1329499999999,7324.991932569369,1,1,0,0,1,1,0,1,0,0,May
+197,Ngong Road,Maisonette,4,2,54.3,"cctv,garden,backup generator,gym,swimming pool",14025158.0,2025-01-22,584.4797699999999,23995.968243691314,1,0,1,0,1,1,0,0,0,1,January
+198,Parklands,Maisonette,5,6,64.2,"servant quarter,swimming pool",17696959.0,2025-08-17,691.04238,25609.079142150444,0,0,0,0,0,0,0,0,1,1,August
+199,Kasarani,Penthouse,5,4,268.7,"gym,garden",19537637.0,2026-01-25,2892.2599299999997,6755.145620677324,0,0,0,0,1,1,0,0,0,0,January
+200,Runda,Maisonette,1,1,222.7,"elevator,servant quarter,balcony,parking,gym",37505643.0,2025-10-05,2397.1205299999997,15646.123142585577,0,1,0,1,0,1,1,0,1,0,October
+201,South B,Bungalow,2,3,200.6,"cctv,gym",13447579.0,2025-05-31,2159.23834,6227.927112483562,0,0,1,0,0,1,0,0,0,0,May
+202,Karen,Townhouse,1,1,86.2,"garden,balcony,elevator",27892498.0,2025-03-19,927.84818,30061.48915440024,0,1,0,1,1,0,0,0,0,0,March
+203,Kasarani,Penthouse,3,2,156.7,"security,elevator",12878670.0,2025-12-30,1686.7031299999999,7635.41003211395,0,0,0,1,0,0,0,1,0,0,December
+204,Roysambu,Bungalow,3,2,276.5,"garden,parking,balcony",15545266.0,2025-03-26,2976.21835,5223.160457968414,0,1,0,0,1,0,1,0,0,0,March
+205,South B,Apartment,2,3,359.6,"servant quarter,parking,garden",19283719.0,2025-09-18,3870.69844,4981.974002604036,0,0,0,0,1,0,1,0,1,0,September
+206,Ruaka,Apartment,2,2,94.5,"backup generator,balcony",12834428.0,2025-03-06,1017.18855,12617.55060062365,1,1,0,0,0,0,0,0,0,0,March
+207,Lavington,Bungalow,3,2,43.1,"swimming pool,security",17526135.0,2025-08-11,463.92409,37778.02312442969,0,0,0,0,0,0,0,1,0,1,August
+208,Kasarani,Studio,2,2,61.8,"parking,elevator,swimming pool,gym",9466360.0,2025-12-30,665.2090199999999,14230.654900019248,0,0,0,1,0,1,1,0,0,1,December
+209,Ngong Road,Penthouse,3,2,317.6,"garden,swimming pool,backup generator,gym,servant quarter",21066793.0,2025-08-16,3418.6146400000002,6162.377225413157,1,0,0,0,1,1,0,0,1,1,August
+210,South C,Bungalow,2,2,276.8,"garden,cctv",16645921.0,2025-02-12,2979.44752,5586.915321804359,0,0,1,0,1,0,0,0,0,0,February
+211,Embakasi,Maisonette,5,2,266.1,"backup generator,elevator",18646805.0,2025-05-02,2864.27379,6510.133586077328,1,0,0,1,0,0,0,0,0,0,May
+212,Ruaka,Townhouse,2,2,399.0,"cctv,balcony,garden,servant quarter",19641864.0,2025-04-04,4294.7961,4573.410132322697,0,1,1,0,1,0,0,0,1,0,April
+213,Kilimani,Maisonette,2,3,170.2,"balcony,security,elevator,gym,servant quarter",18605076.0,2025-04-01,1832.0157799999997,10155.521695342604,0,1,0,1,0,1,0,1,1,0,April
+214,Westlands,Apartment,5,5,370.8,"servant quarter,backup generator,parking",27429987.0,2025-03-24,3991.25412,6872.523316054854,1,0,0,0,0,0,1,0,1,0,March
+215,Ngong Road,Apartment,4,5,381.0,"servant quarter,gym,elevator,backup generator",22582792.0,2025-10-04,4101.0459,5506.5933302526555,1,0,0,1,0,1,0,0,1,0,October
+216,Kileleshwa,Apartment,3,3,134.0,"swimming pool,servant quarter,garden,cctv",16826902.0,2025-10-08,1442.3626,11666.207928574964,0,0,1,0,1,0,0,0,1,1,October
+217,Embakasi,Penthouse,3,2,222.0,"elevator,cctv,servant quarter,garden,swimming pool",15377681.0,2025-09-05,2389.5858,6435.291421634662,0,0,1,1,1,0,0,0,1,1,September
+218,Westlands,Penthouse,4,4,92.0,"cctv,gym,balcony",19435384.0,2025-05-19,990.2787999999999,19626.17396232253,0,1,1,0,0,1,0,0,0,0,May
+219,Runda,Apartment,3,1,237.2,"servant quarter,parking",39691832.0,2026-01-14,2553.19708,15545.933492920962,0,0,0,0,0,0,1,0,1,0,January
+220,Roysambu,Penthouse,3,4,277.6,"garden,parking,backup generator,gym,cctv",19144750.0,2025-09-30,2988.05864,6407.086441918021,1,0,1,0,1,1,1,0,0,0,September
+221,Ngong Road,Bungalow,2,3,296.5,"swimming pool,elevator",16828469.0,2025-02-01,3191.49635,5272.908740754161,0,0,0,1,0,0,0,0,0,1,February
+222,Westlands,Studio,1,2,229.6,"garden,backup generator",17362056.0,2025-04-03,2471.39144,7025.214912939895,1,0,0,0,1,0,0,0,0,0,April
+223,Kasarani,Studio,1,2,283.4,"gym,garden,elevator,servant quarter",14531202.0,2025-06-07,3050.48926,4763.564386389612,0,0,0,1,1,1,0,0,1,0,June
+224,Kasarani,Apartment,1,2,174.5,"balcony,swimming pool,security",12086322.0,2025-03-07,1878.30055,6434.711420384773,0,1,0,0,0,0,0,1,0,1,March
+225,Kileleshwa,Maisonette,5,1,201.7,"swimming pool,gym,servant quarter",20937055.0,2025-07-04,2171.07863,9643.618941613367,0,0,0,0,0,1,0,0,1,1,July
+226,Parklands,Apartment,1,1,297.2,"parking,security,servant quarter",18184621.0,2025-02-02,3199.0310799999997,5684.415232377174,0,0,0,0,0,0,1,1,1,0,February
+227,South C,Apartment,2,3,272.5,"cctv,parking",14221596.0,2025-09-26,2933.16275,4848.553323541287,0,0,1,0,0,0,1,0,0,0,September
+228,Ruaka,Penthouse,3,2,236.7,"garden,backup generator,parking",17320937.0,2025-07-20,2547.81513,6798.3492193171805,1,0,0,0,1,0,1,0,0,0,July
+229,Embakasi,Apartment,5,6,206.7,"swimming pool,parking,gym,cctv",16899331.0,2025-02-06,2224.8981299999996,7595.552700653312,0,0,1,0,0,1,1,0,0,1,February
+230,Karen,Penthouse,5,5,209.5,"backup generator,security,garden,cctv,servant quarter",36831818.0,2025-08-09,2255.03705,16333.132087563707,1,0,1,0,1,0,0,1,1,0,August
+231,Ruaka,Studio,4,1,267.3,"cctv,gym,backup generator,elevator,balcony",20760840.0,2025-03-27,2877.19047,7215.664105824735,1,1,1,1,0,1,0,0,0,0,March
+232,Ruaka,Townhouse,3,2,202.6,"gym,elevator",16968459.0,2025-05-18,2180.7661399999997,7780.962244764128,0,0,0,1,0,1,0,0,0,0,May
+233,Kileleshwa,Townhouse,4,2,342.2,"gym,garden,security,cctv",23898130.0,2025-08-02,3683.40658,6488.05106929032,0,0,1,0,1,1,0,1,0,0,August
+234,Ngong Road,Studio,2,2,233.5,"security,parking,elevator,balcony,cctv",14597916.0,2025-08-03,2513.37065,5808.103154224388,0,1,1,1,0,0,1,1,0,0,August
+235,Kilimani,Apartment,5,5,287.9,"backup generator,gym,elevator,cctv",22536943.0,2025-10-11,3098.9268099999995,7272.499281775553,1,0,1,1,0,1,0,0,0,0,October
+236,Karen,Apartment,3,3,264.0,"cctv,security,garden",34963507.0,2025-04-23,2841.6695999999997,12303.860730325581,0,0,1,0,1,0,0,1,0,0,April
+237,Kilimani,Studio,1,1,107.2,"garden,security",12076157.0,2025-10-16,1153.89008,10465.60431475414,0,0,0,0,1,0,0,1,0,0,October
+238,South C,Penthouse,4,4,381.4,"backup generator,garden,balcony",20614460.0,2025-08-18,4105.35146,5021.3630186975515,1,1,0,0,1,0,0,0,0,0,August
+239,Lavington,Bungalow,2,2,183.4,"elevator,cctv,security",19657158.0,2025-03-27,1974.09926,9957.532733181815,0,0,1,1,0,0,0,1,0,0,March
+240,Runda,Maisonette,5,4,108.6,"swimming pool,gym,backup generator,security,elevator",40254174.0,2025-01-13,1168.9595399999998,34435.900151000955,1,0,0,1,0,1,0,1,0,1,January
+241,Roysambu,Bungalow,5,6,242.8,"elevator,garden,backup generator",20085099.0,2025-08-19,2613.47492,7685.208243743162,1,0,0,1,1,0,0,0,0,0,August
+242,Ngong Road,Bungalow,1,1,103.7,"balcony,elevator,servant quarter",10069123.0,2025-05-02,1116.21643,9020.762219025928,0,1,0,1,0,0,0,0,1,0,May
+243,Lavington,Apartment,2,3,336.1,"garden,parking",24191193.0,2025-02-23,3617.74679,6686.812097205951,0,0,0,0,1,0,1,0,0,0,February
+244,Kasarani,Penthouse,5,2,192.4,"gym,cctv",18560778.0,2025-11-11,2070.97436,8962.34079884987,0,0,1,0,0,1,0,0,0,0,November
+245,Syokimau,Maisonette,5,4,322.1,"swimming pool,parking,gym,cctv,servant quarter",22618622.0,2025-03-28,3467.05219,6523.87698842226,0,0,1,0,0,1,1,0,1,1,March
+246,Runda,Maisonette,5,2,279.2,"cctv,parking,security,servant quarter",43526509.0,2025-08-01,3005.28088,14483.341404015455,0,0,1,0,0,0,1,1,1,0,August
+247,Kilimani,Studio,2,3,219.3,"security,balcony,backup generator,parking",16715358.0,2025-08-02,2360.52327,7081.208735552943,1,1,0,0,0,0,1,1,0,0,August
+248,Kilimani,Maisonette,3,3,113.1,"servant quarter,garden",16502669.0,2025-01-28,1217.39709,13555.699397967182,0,0,0,0,1,0,0,0,1,0,January
+249,Kasarani,Apartment,3,2,134.2,"garden,backup generator,swimming pool,servant quarter,gym",13689767.0,2025-02-14,1444.5153799999998,9477.065588598996,1,0,0,0,1,1,0,0,1,1,February
+250,Karen,Maisonette,3,3,305.5,"gym,backup generator",38504119.0,2025-11-27,3288.37145,11709.175677218582,1,0,0,0,0,1,0,0,0,0,November
+251,Lavington,Townhouse,1,2,195.2,"security,backup generator,elevator,garden,cctv",18058146.0,2025-07-22,2101.1132799999996,8594.56087964948,1,0,1,1,1,0,0,1,0,0,July
+252,Kilimani,Studio,3,1,132.9,"elevator,parking,backup generator",17301885.0,2025-02-19,1430.52231,12094.802631914212,1,0,0,1,0,0,1,0,0,0,February
+253,Embakasi,Apartment,1,2,273.8,"security,parking,cctv",14526350.0,2025-07-21,2947.15582,4928.938572375858,0,0,1,0,0,0,1,1,0,0,July
+254,Lavington,Bungalow,1,1,99.3,"cctv,balcony",16546780.0,2025-06-16,1068.85527,15480.84241564342,0,1,1,0,0,0,0,0,0,0,June
+255,Ruaka,Penthouse,3,4,171.2,"garden,servant quarter",16278506.0,2025-04-23,1842.7796799999999,8833.669144864893,0,0,0,0,1,0,0,0,1,0,April
+256,Lavington,Townhouse,5,4,157.7,"balcony,backup generator",22858533.0,2025-04-30,1697.4670299999998,13466.26037266833,1,1,0,0,0,0,0,0,0,0,April
+257,South C,Apartment,5,1,144.5,"gym,balcony,servant quarter,swimming pool,security",15247664.0,2025-07-29,1555.38355,9803.153698005872,0,1,0,0,0,1,0,1,1,1,July
+258,Roysambu,Bungalow,2,2,43.7,"elevator,servant quarter,security,garden,backup generator",8925692.0,2025-07-11,470.38243,18975.394127710086,1,0,0,1,1,0,0,1,1,0,July
+259,Kasarani,Townhouse,5,6,178.2,"cctv,balcony,elevator,parking",16482922.0,2026-01-13,1918.1269799999998,8593.238180717317,0,1,1,1,0,0,1,0,0,0,January
+260,Ngong Road,Penthouse,1,2,333.1,"garden,swimming pool,backup generator,parking",17314438.0,2025-07-20,3585.45509,4829.076802074796,1,0,0,0,1,0,1,0,0,1,July
+261,Parklands,Apartment,4,5,344.0,"parking,cctv,garden,backup generator",22313528.0,2025-11-16,3702.7816,6026.152879230037,1,0,1,0,1,0,1,0,0,0,November
+262,Kilimani,Studio,5,4,339.8,"balcony,garden",25476351.0,2025-10-10,3657.5732199999998,6965.370060315567,0,1,0,0,1,0,0,0,0,0,October
+263,Ngong Road,Bungalow,3,1,398.5,"backup generator,security,balcony",21894910.0,2026-02-04,4289.41415,5104.4056913926115,1,1,0,0,0,0,0,1,0,0,February
+264,Ruaka,Apartment,1,1,344.2,"servant quarter,garden",17660967.0,2026-01-01,3704.9343799999997,4766.87713967015,0,0,0,0,1,0,0,0,1,0,January
+265,Embakasi,Studio,5,2,181.6,"swimming pool,gym,cctv,security,balcony",17646027.0,2025-10-07,1954.7242399999998,9027.37411185938,0,1,1,0,0,1,0,1,0,1,October
+266,Roysambu,Penthouse,4,2,173.8,"garden,balcony,elevator",16957873.0,2025-04-13,1870.76582,9064.669034844777,0,1,0,1,1,0,0,0,0,0,April
+267,Parklands,Townhouse,2,2,192.6,"swimming pool,backup generator,gym",15582403.0,2025-11-02,2073.12714,7516.375961389421,1,0,0,0,0,1,0,0,0,1,November
+268,Ngong Road,Bungalow,2,1,209.3,"parking,elevator",15830829.0,2025-07-14,2252.88427,7026.916211723561,0,0,0,1,0,0,1,0,0,0,July
+269,South C,Apartment,5,6,247.3,"security,backup generator",21752244.0,2025-12-29,2661.91247,8171.6601297562565,1,0,0,0,0,0,0,1,0,0,December
+270,Ruaka,Apartment,3,2,59.6,"parking,elevator",13838787.0,2025-11-26,641.52844,21571.587691420194,0,0,0,1,0,0,1,0,0,0,November
+271,Kilimani,Maisonette,4,3,95.1,"servant quarter,swimming pool,cctv,elevator,backup generator",15882494.0,2025-10-15,1023.6468899999999,15515.598352474848,1,0,1,1,0,0,0,0,1,1,October
+272,Ngong Road,Maisonette,4,3,34.7,"gym,servant quarter,elevator,security",13326498.0,2025-08-19,373.50733,35679.34797959654,0,0,0,1,0,1,0,1,1,0,August
+273,Karen,Townhouse,5,6,45.3,"security,parking,servant quarter,swimming pool",34606870.0,2025-10-10,487.60466999999994,70973.21278731806,0,0,0,0,0,0,1,1,1,1,October
+274,Syokimau,Studio,4,4,173.1,"backup generator,balcony,swimming pool",17885028.0,2025-05-08,1863.2310899999998,9598.931713832664,1,1,0,0,0,0,0,0,0,1,May
+275,Runda,Penthouse,3,4,324.5,"swimming pool,elevator",42697567.0,2025-10-05,3492.88555,12224.152892727905,0,0,0,1,0,0,0,0,0,1,October
+276,Syokimau,Penthouse,4,4,211.7,"balcony,servant quarter,cctv,security",19066984.0,2026-02-04,2278.7176299999996,8367.41847650514,0,1,1,0,0,0,0,1,1,0,February
+277,Karen,Studio,5,2,91.4,"gym,backup generator,cctv",36045445.0,2025-11-05,983.82046,36638.23478523713,1,0,1,0,0,1,0,0,0,0,November
+278,Kasarani,Maisonette,4,3,123.4,"backup generator,security",15582630.0,2025-12-22,1328.26526,11731.564823128778,1,0,0,0,0,0,0,1,0,0,December
+279,South C,Townhouse,3,3,203.9,"garden,security",13278415.0,2025-07-13,2194.75921,6050.0554864968535,0,0,0,0,1,0,0,1,0,0,July
+280,Roysambu,Maisonette,4,1,160.4,"parking,balcony,security,garden",14644380.0,2025-01-03,1726.52956,8481.974672938702,0,1,0,0,1,0,1,1,0,0,January
+281,Kasarani,Maisonette,3,1,90.6,"parking,elevator,garden",10464069.0,2025-08-22,975.2093399999999,10730.074631975942,0,0,0,1,1,0,1,0,0,0,August
+282,Roysambu,Penthouse,2,3,95.3,"balcony,swimming pool,servant quarter,garden,parking",11722953.0,2025-10-29,1025.7996699999999,11428.111494713194,0,1,0,0,1,0,1,0,1,1,October
+283,South C,Studio,3,4,206.7,"security,parking,servant quarter,swimming pool",15985994.0,2025-02-01,2224.8981299999996,7185.045366548986,0,0,0,0,0,0,1,1,1,1,February
+284,South C,Studio,5,1,329.7,"garden,balcony,servant quarter",23434991.0,2025-03-05,3548.85783,6603.530522382183,0,1,0,0,1,0,0,0,1,0,March
+285,Runda,Apartment,5,6,68.0,"servant quarter,elevator,gym",40555679.0,2025-08-08,731.9452,55408.08109678156,0,0,0,1,0,1,0,0,1,0,August
+286,Kasarani,Studio,1,2,351.6,"swimming pool,gym,security,elevator,backup generator",15245420.0,2025-12-17,3784.5872400000003,4028.2913388462407,1,0,0,1,0,1,0,1,0,1,December
+287,Westlands,Penthouse,4,1,387.3,"servant quarter,garden,security,elevator,swimming pool",26775813.0,2026-02-03,4168.85847,6422.81650784849,0,0,0,1,1,0,0,1,1,1,February
+288,South C,Studio,5,1,375.9,"gym,elevator,security,swimming pool,parking",25324540.0,2025-04-21,4046.1500099999994,6258.922664115462,0,0,0,1,0,1,1,1,0,1,April
+289,South C,Bungalow,3,4,36.8,"garden,balcony,servant quarter,backup generator,swimming pool",13558960.0,2025-04-18,396.1115199999999,34230.158214030234,1,1,0,0,1,0,0,0,1,1,April
+290,Embakasi,Studio,5,1,75.3,"servant quarter,garden,security,cctv",15093906.0,2025-08-26,810.52167,18622.45829898663,0,0,1,0,1,0,0,1,1,0,August
+291,Kileleshwa,Maisonette,1,2,388.3,"elevator,garden,servant quarter,security,backup generator",22366847.0,2025-02-02,4179.62237,5351.403792012913,1,0,0,1,1,0,0,1,1,0,February
+292,Ruaka,Studio,4,1,277.2,"parking,swimming pool,servant quarter,gym,security",22865482.0,2025-03-22,2983.75308,7663.329165294067,0,0,0,0,0,1,1,1,1,1,March
+293,Kileleshwa,Maisonette,3,1,196.7,"garden,servant quarter",17972368.0,2025-07-13,2117.25913,8488.506553281459,0,0,0,0,1,0,0,0,1,0,July
+294,Embakasi,Studio,1,1,222.0,"gym,servant quarter,backup generator,garden,security",12442836.0,2025-10-31,2389.5858,5207.1099518586025,1,0,0,0,1,1,0,1,1,0,October
+295,Roysambu,Maisonette,4,2,321.6,"parking,garden,elevator,backup generator",19822833.0,2025-10-17,3461.67024,5726.378200599489,1,0,0,1,1,0,1,0,0,0,October
+296,South B,Maisonette,4,5,161.4,"backup generator,gym,servant quarter,elevator,cctv",16622790.0,2025-11-02,1737.29346,9568.210773095294,1,0,1,1,0,1,0,0,1,0,November
+297,Westlands,Studio,1,1,236.0,"garden,cctv,parking,swimming pool",19279458.0,2025-05-15,2540.2804,7589.499962287628,0,0,1,0,1,0,1,0,0,1,May
+298,Parklands,Penthouse,1,1,386.7,"balcony,backup generator",17855127.0,2026-01-07,4162.40013,4289.622920033879,1,1,0,0,0,0,0,0,0,0,January
+299,South B,Bungalow,1,2,381.6,"gym,swimming pool",17196520.0,2025-10-28,4107.50424,4186.61040749163,0,0,0,0,0,1,0,0,0,1,October
+300,Roysambu,Maisonette,3,2,318.4,"cctv,swimming pool,parking,security,garden",15628846.0,2025-03-13,3427.22576,4560.203235633943,0,0,1,0,1,0,1,1,0,1,March
+301,Embakasi,Bungalow,2,1,350.4,"gym,elevator",15409147.0,2025-06-15,3771.6705599999996,4085.4965339284568,0,0,0,1,0,1,0,0,0,0,June
+302,Ngong Road,Maisonette,5,4,89.1,"gym,parking,elevator",16575921.0,2025-11-07,959.0634899999999,17283.444915622847,0,0,0,1,0,1,1,0,0,0,November
+303,Roysambu,Maisonette,4,1,36.5,"gym,backup generator,parking",13396950.0,2025-11-26,392.88235,34099.139347949844,1,0,0,0,0,1,1,0,0,0,November
+304,South C,Maisonette,3,2,339.2,"balcony,garden",19264393.0,2025-06-26,3651.1148799999996,5276.304261343867,0,1,0,0,1,0,0,0,0,0,June
+305,Karen,Maisonette,4,5,163.9,"cctv,elevator,servant quarter,security",35025303.0,2025-04-21,1764.20321,19853.326873835584,0,0,1,1,0,0,0,1,1,0,April
+306,Ruaka,Maisonette,1,1,363.2,"parking,balcony",17553325.0,2025-12-19,3909.4484799999996,4489.974759815738,0,1,0,0,0,0,1,0,0,0,December
+307,Karen,Bungalow,5,5,311.5,"security,parking,backup generator",40057440.0,2025-03-14,3352.95485,11946.907069148276,1,0,0,0,0,0,1,1,0,0,March
+308,Parklands,Studio,5,3,44.3,"gym,backup generator",16787215.0,2025-08-25,476.84076999999996,35205.0748512968,1,0,0,0,0,1,0,0,0,0,August
+309,Lavington,Bungalow,3,1,164.0,"garden,servant quarter,cctv",20381776.0,2025-08-12,1765.2795999999998,11545.91941129326,0,0,1,0,1,0,0,0,1,0,August
+310,Kilimani,Penthouse,4,3,210.9,"swimming pool,security,gym,elevator,backup generator",18299930.0,2026-01-08,2270.10651,8061.264931573629,1,0,0,1,0,1,0,1,0,1,January
+311,South B,Bungalow,1,1,372.4,"cctv,backup generator,gym",17928084.0,2025-08-02,4008.4763599999997,4472.543278264463,1,0,1,0,0,1,0,0,0,0,August
+312,Kileleshwa,Penthouse,3,1,399.1,"security,swimming pool",23241796.0,2025-12-31,4295.87249,5410.262072280456,0,0,0,0,0,0,0,1,0,1,December
+313,Lavington,Penthouse,3,3,47.4,"security,gym,balcony",17057461.0,2025-06-01,510.20885999999996,33432.31044635329,0,1,0,0,0,1,0,1,0,0,June
+314,Ngong Road,Townhouse,2,3,194.0,"gym,garden",15703399.0,2025-06-22,2088.1965999999998,7520.0768931431085,0,0,0,0,1,1,0,0,0,0,June
+315,Kasarani,Apartment,4,4,74.9,"parking,servant quarter",13119914.0,2025-04-13,806.2161100000001,16273.445590165642,0,0,0,0,0,0,1,0,1,0,April
+316,South C,Bungalow,5,2,251.5,"cctv,garden,servant quarter,gym,security",18740109.0,2025-02-05,2707.12085,6922.52397967383,0,0,1,0,1,1,0,1,1,0,February
+317,Kilimani,Apartment,3,4,167.2,"garden,backup generator,balcony",17399875.0,2026-01-13,1799.7240799999997,9668.079231345286,1,1,0,0,1,0,0,0,0,0,January
+318,Karen,Townhouse,5,2,183.8,"elevator,security,garden,cctv,swimming pool",37360187.0,2025-12-27,1978.40482,18883.99513705188,0,0,1,1,1,0,0,1,0,1,December
+319,Kasarani,Studio,5,3,155.6,"security,balcony,servant quarter",13876835.0,2025-12-12,1674.8628399999998,8285.356071306713,0,1,0,0,0,0,0,1,1,0,December
+320,Ngong Road,Maisonette,3,3,356.7,"balcony,parking,cctv",19749015.0,2025-12-14,3839.4831299999996,5143.665001596192,0,1,1,0,0,0,1,0,0,0,December
+321,South B,Penthouse,2,1,394.7,"balcony,backup generator",17765919.0,2025-09-22,4248.511329999999,4181.680974827482,1,1,0,0,0,0,0,0,0,0,September
+322,Embakasi,Maisonette,2,2,316.0,"elevator,cctv,security,parking",14797451.0,2025-03-15,3401.3923999999997,4350.409849801511,0,0,1,1,0,0,1,1,0,0,March
+323,Westlands,Townhouse,3,3,105.6,"balcony,elevator,swimming pool,backup generator",18305699.0,2026-01-01,1136.6678399999998,16104.703903648759,1,1,0,1,0,0,0,0,0,1,January
+324,Lavington,Bungalow,1,1,299.4,"balcony,garden",21159078.0,2025-12-13,3222.7116599999995,6565.613133382216,0,1,0,0,1,0,0,0,0,0,December
+325,Kileleshwa,Apartment,1,2,352.6,"backup generator,servant quarter,cctv",20054451.0,2025-11-02,3795.35114,5283.951407984875,1,0,1,0,0,0,0,0,1,0,November
+326,Karen,Maisonette,3,2,251.3,"backup generator,balcony",34338268.0,2025-07-16,2704.96807,12694.518793340138,1,1,0,0,0,0,0,0,0,0,July
+327,Lavington,Apartment,2,3,232.1,"cctv,backup generator,swimming pool",21126786.0,2025-10-18,2498.3011899999997,8456.460768046947,1,0,1,0,0,0,0,0,0,1,October
+328,South B,Townhouse,4,1,307.2,"swimming pool,backup generator,garden,balcony,servant quarter",19359360.0,2025-04-23,3306.67008,5854.639117791879,1,1,0,0,1,0,0,0,1,1,April
+329,Kileleshwa,Studio,1,2,394.8,"garden,backup generator,elevator",19713589.0,2025-09-16,4249.5877199999995,4638.9415394865655,1,0,0,1,1,0,0,0,0,0,September
+330,South B,Studio,4,5,121.5,"elevator,security,backup generator,balcony,parking",14984212.0,2025-05-23,1307.81385,11457.450156228273,1,1,0,1,0,0,1,1,0,0,May
+331,Lavington,Studio,2,1,75.3,"balcony,parking,cctv,garden,swimming pool",16535276.0,2025-03-25,810.52167,20400.782128379124,0,1,1,0,1,0,1,0,0,1,March
+332,South C,Studio,4,1,81.7,"security,gym,swimming pool",14290272.0,2025-03-24,879.41063,16249.828592588197,0,0,0,0,0,1,0,1,0,1,March
+333,Roysambu,Townhouse,5,6,144.0,"gym,parking,servant quarter,cctv,backup generator",17405072.0,2025-03-29,1550.0016,11229.067118382329,1,0,1,0,0,1,1,0,1,0,March
+334,Karen,Townhouse,1,2,348.6,"gym,balcony,parking,swimming pool,backup generator",37307376.0,2025-12-29,3752.29554,9942.547329307648,1,1,0,0,0,1,1,0,0,1,December
+335,South C,Penthouse,4,2,260.6,"servant quarter,gym,cctv",18832860.0,2025-03-29,2805.07234,6713.858937413357,0,0,1,0,0,1,0,0,1,0,March
+336,Roysambu,Penthouse,1,2,190.7,"elevator,garden,gym",11803546.0,2025-04-12,2052.67573,5750.321800706437,0,0,0,1,1,1,0,0,0,0,April
+337,South B,Studio,4,2,149.5,"balcony,servant quarter,swimming pool",16833735.0,2025-11-27,1609.2030499999998,10460.914177362516,0,1,0,0,0,0,0,0,1,1,November
+338,Kileleshwa,Maisonette,5,1,275.1,"elevator,gym,cctv,servant quarter",23356989.0,2025-04-04,2961.14889,7887.813098111389,0,0,1,1,0,1,0,0,1,0,April
+339,South B,Maisonette,2,3,293.4,"backup generator,gym,servant quarter",15968235.0,2025-05-13,3158.1282599999995,5056.233846563281,1,0,0,0,0,1,0,0,1,0,May
+340,Runda,Studio,1,2,264.0,"swimming pool,cctv",38933230.0,2025-09-25,2841.6695999999997,13700.829258968039,0,0,1,0,0,0,0,0,0,1,September
+341,South C,Townhouse,4,1,250.8,"garden,cctv,elevator,backup generator,parking",20423862.0,2025-01-10,2699.58612,7565.553048553977,1,0,1,1,1,0,1,0,0,0,January
+342,Kasarani,Penthouse,4,2,356.2,"balcony,cctv,parking,swimming pool,security",21027195.0,2025-01-06,3834.1011799999997,5484.2566778584605,0,1,1,0,0,0,1,1,0,1,January
+343,Syokimau,Townhouse,4,2,78.1,"security,elevator,gym,parking",13049204.0,2025-03-01,840.66059,15522.559467192343,0,0,0,1,0,1,1,1,0,0,March
+344,South B,Maisonette,3,4,333.1,"swimming pool,security,garden",18173851.0,2025-07-27,3585.45509,5068.771060802773,0,0,0,0,1,0,0,1,0,1,July
+345,South C,Penthouse,4,2,154.0,"parking,backup generator,elevator",16473859.0,2025-03-10,1657.6406,9938.13677102262,1,0,0,1,0,0,1,0,0,0,March
+346,Lavington,Townhouse,2,1,333.3,"elevator,gym,garden",22102961.0,2025-09-20,3587.60787,6160.918863186684,0,0,0,1,1,1,0,0,0,0,September
+347,Runda,Maisonette,4,5,229.5,"balcony,parking",43056792.0,2025-11-16,2470.3150499999997,17429.67642932832,0,1,0,0,0,0,1,0,0,0,November
+348,Parklands,Townhouse,3,4,53.9,"garden,security,gym,backup generator,elevator",13542288.0,2025-08-18,580.17421,23341.761434035478,1,0,0,1,1,1,0,1,0,0,August
+349,South B,Maisonette,1,2,355.2,"balcony,cctv,garden",15330500.0,2025-04-19,3823.3372799999997,4009.716872271337,0,1,1,0,1,0,0,0,0,0,April
+350,Karen,Penthouse,3,2,213.1,"gym,servant quarter,garden",35895010.0,2025-09-25,2293.78709,15648.79763971468,0,0,0,0,1,1,0,0,1,0,September
+351,Parklands,Studio,5,6,143.5,"cctv,garden,servant quarter,swimming pool",18687590.0,2025-02-13,1544.6196499999999,12098.505933159662,0,0,1,0,1,0,0,0,1,1,February
+352,Karen,Townhouse,4,1,64.6,"security,parking",31429617.0,2025-09-15,695.3479399999999,45199.8419668864,0,0,0,0,0,0,1,1,0,0,September
+353,Lavington,Townhouse,2,1,363.8,"security,cctv",24426339.0,2025-08-02,3915.90682,6237.722224452726,0,0,1,0,0,0,0,1,0,0,August
+354,Westlands,Studio,1,1,383.1,"backup generator,servant quarter,garden,elevator",20856667.0,2025-09-12,4123.65009,5057.816872139119,1,0,0,1,1,0,0,0,1,0,September
+355,Runda,Townhouse,3,4,374.4,"gym,cctv,parking,swimming pool",43833963.0,2025-09-16,4030.0041599999995,10876.902668011144,0,0,1,0,0,1,1,0,0,1,September
+356,South C,Townhouse,2,3,93.4,"servant quarter,garden,security",12621731.0,2025-01-31,1005.34826,12554.585810891043,0,0,0,0,1,0,0,1,1,0,January
+357,Runda,Studio,5,6,306.6,"gym,balcony,garden,servant quarter,swimming pool",45684075.0,2025-06-18,3300.21174,13842.770888391542,0,1,0,0,1,1,0,0,1,1,June
+358,Ruaka,Apartment,2,1,134.7,"garden,security,balcony,swimming pool",12946283.0,2025-03-24,1449.8973299999998,8929.103276574764,0,1,0,0,1,0,0,1,0,1,March
+359,Runda,Penthouse,1,1,374.1,"swimming pool,garden,cctv,servant quarter",38460182.0,2025-01-07,4026.77499,9551.112762821645,0,0,1,0,1,0,0,0,1,1,January
+360,Embakasi,Studio,3,3,135.4,"swimming pool,garden,backup generator,servant quarter",12512531.0,2025-09-12,1457.43206,8585.327126672375,1,0,0,0,1,0,0,0,1,1,September
+361,Parklands,Penthouse,4,1,62.1,"servant quarter,cctv,parking",14139963.0,2025-11-10,668.43819,21153.733002598194,0,0,1,0,0,0,1,0,1,0,November
+362,Kileleshwa,Apartment,5,4,304.8,"balcony,security,servant quarter",22132388.0,2025-09-08,3280.83672,6745.9583907607575,0,1,0,0,0,0,0,1,1,0,September
+363,Parklands,Studio,1,2,111.0,"security,swimming pool,servant quarter",12551286.0,2025-02-02,1194.7929,10504.988772531207,0,0,0,0,0,0,0,1,1,1,February
+364,Roysambu,Penthouse,3,1,270.4,"gym,elevator,parking",17374676.0,2025-03-17,2910.5585599999995,5969.533215645042,0,0,0,1,0,1,1,0,0,0,March
+365,Embakasi,Penthouse,3,1,301.4,"garden,elevator,backup generator,parking,swimming pool",16549985.0,2025-06-25,3244.23946,5101.345077653424,1,0,0,1,1,0,1,0,0,1,June
+366,Runda,Bungalow,4,4,245.7,"parking,backup generator,cctv",41320774.0,2025-05-13,2644.6902299999997,15624.050609511272,1,0,1,0,0,0,1,0,0,0,May
+367,Embakasi,Apartment,1,1,156.3,"parking,gym,balcony",10096510.0,2025-02-23,1682.39757,6001.262828737918,0,1,0,0,0,1,1,0,0,0,February
+368,Embakasi,Townhouse,5,5,191.6,"balcony,elevator",16970357.0,2025-01-04,2062.3632399999997,8228.59749963348,0,1,0,1,0,0,0,0,0,0,January
+369,Embakasi,Maisonette,3,3,75.6,"security,balcony,gym,elevator",12118466.0,2025-06-10,813.7508399999999,14892.108744244124,0,1,0,1,0,1,0,1,0,0,June
+370,Karen,Apartment,3,2,358.1,"servant quarter,cctv,swimming pool,garden",38077269.0,2025-11-29,3854.5525900000002,9878.518481959536,0,0,1,0,1,0,0,0,1,1,November
+371,South B,Bungalow,1,1,199.0,"swimming pool,security",11358690.0,2025-05-13,2142.0161,5302.803279583193,0,0,0,0,0,0,0,1,0,1,May
+372,South B,Bungalow,1,1,254.3,"parking,balcony",13443814.0,2025-03-22,2737.25977,4911.413285411344,0,1,0,0,0,0,1,0,0,0,March
+373,Embakasi,Studio,2,2,375.3,"balcony,security,parking,garden",15553003.0,2026-01-11,4039.69167,3850.0470507443456,0,1,0,0,1,0,1,1,0,0,January
+374,Ngong Road,Studio,3,2,77.1,"garden,swimming pool",14660396.0,2025-12-31,829.8966899999999,17665.326511905958,0,0,0,0,1,0,0,0,0,1,December
+375,Lavington,Townhouse,5,4,335.6,"parking,garden,swimming pool,servant quarter",28398423.0,2025-08-20,3612.36484,7861.449288162155,0,0,0,0,1,0,1,0,1,1,August
+376,South C,Townhouse,3,3,301.8,"parking,garden,elevator,cctv,balcony",18792666.0,2026-01-06,3248.54502,5784.948610624458,0,1,1,1,1,0,1,0,0,0,January
+377,Syokimau,Penthouse,5,2,377.6,"cctv,elevator",24305393.0,2025-11-22,4064.44864,5979.997572315245,0,0,1,1,0,0,0,0,0,0,November
+378,Kasarani,Townhouse,2,1,43.8,"parking,elevator,backup generator,gym",9548798.0,2025-05-24,471.45881999999995,20253.726507863405,1,0,0,1,0,1,1,0,0,0,May
+379,Runda,Penthouse,3,2,148.4,"backup generator,garden,elevator,cctv,gym",38477242.0,2025-11-21,1597.36276,24087.979865012003,1,0,1,1,1,1,0,0,0,0,November
+380,Lavington,Apartment,4,3,281.5,"gym,balcony,elevator,security,cctv",25277252.0,2025-08-07,3030.0378499999997,8342.223183779703,0,1,1,1,0,1,0,1,0,0,August
+381,Westlands,Bungalow,2,3,76.0,"parking,elevator,gym",16492564.0,2025-08-18,818.0563999999999,20160.668628715575,0,0,0,1,0,1,1,0,0,0,August
+382,Westlands,Penthouse,2,1,254.4,"balcony,swimming pool,parking",19844857.0,2025-08-27,2738.33616,7247.049244677104,0,1,0,0,0,0,1,0,0,1,August
+383,Ngong Road,Maisonette,4,3,171.3,"elevator,security",17526818.0,2025-05-06,1843.85607,9505.523931702543,0,0,0,1,0,0,0,1,0,0,May
+384,Karen,Bungalow,1,1,313.1,"gym,balcony,backup generator",34728961.0,2025-08-09,3370.17709,10304.788167674595,1,1,0,0,0,1,0,0,0,0,August
+385,South C,Studio,5,6,390.1,"balcony,servant quarter,swimming pool,garden,elevator",23697940.0,2025-06-27,4198.99739,5643.713915240132,0,1,0,1,1,0,0,0,1,1,June
+386,Roysambu,Studio,3,1,285.8,"cctv,garden",15850134.0,2025-10-05,3076.32262,5152.299013424022,0,0,1,0,1,0,0,0,0,0,October
+387,Roysambu,Bungalow,4,4,350.6,"servant quarter,gym,swimming pool",21449238.0,2025-06-11,3773.82334,5683.688945545607,0,0,0,0,0,1,0,0,1,1,June
+388,South C,Penthouse,4,3,153.6,"gym,swimming pool,balcony",14696499.0,2025-04-05,1653.33504,8889.002316191158,0,1,0,0,0,1,0,0,0,1,April
+389,Syokimau,Apartment,4,4,202.2,"security,garden,balcony,parking",20550034.0,2025-09-01,2176.46058,9441.950931176525,0,1,0,0,1,0,1,1,0,0,September
+390,Embakasi,Townhouse,3,1,277.2,"garden,security,servant quarter",16966860.0,2025-05-10,2983.75308,5686.415579669883,0,0,0,0,1,0,0,1,1,0,May
+391,Kasarani,Studio,3,2,78.7,"backup generator,balcony",11313442.0,2025-06-17,847.11893,13355.199133609256,1,1,0,0,0,0,0,0,0,0,June
+392,Ngong Road,Bungalow,4,1,345.7,"garden,parking,security",23235924.0,2025-10-13,3721.0802299999996,6244.402851803065,0,0,0,0,1,0,1,1,0,0,October
+393,Ruaka,Studio,4,1,157.5,"balcony,servant quarter,cctv,elevator",17816761.0,2025-11-09,1695.31425,10509.414994889592,0,1,1,1,0,0,0,0,1,0,November
+394,Westlands,Apartment,2,3,37.1,"parking,security,servant quarter,elevator",15189539.0,2026-01-11,399.34069,38036.54218156432,0,0,0,1,0,0,1,1,1,0,January
+395,Parklands,Townhouse,2,1,79.7,"parking,servant quarter,backup generator,balcony",12683546.0,2025-06-26,857.88283,14784.706671422717,1,1,0,0,0,0,1,0,1,0,June
+396,Ngong Road,Bungalow,4,4,289.6,"swimming pool,parking,gym",21369505.0,2025-03-31,3117.22544,6855.296612746751,0,0,0,0,0,1,1,0,0,1,March
+397,Parklands,Penthouse,4,3,286.6,"parking,garden,swimming pool,gym,cctv",19904507.0,2026-01-11,3084.93374,6452.16678138442,0,0,1,0,1,1,1,0,0,1,January
+398,Kasarani,Maisonette,3,3,108.6,"servant quarter,backup generator,swimming pool,garden,gym",11856867.0,2025-06-15,1168.9595399999998,10143.094430796127,1,0,0,0,1,1,0,0,1,1,June
+399,Karen,Apartment,2,1,296.5,"balcony,servant quarter,garden",36883601.0,2025-02-27,3191.49635,11556.83634104736,0,1,0,0,1,0,0,0,1,0,February
+400,Ruaka,Maisonette,4,2,257.7,"balcony,security,servant quarter",19383774.0,2026-01-24,2773.8570299999997,6988.022017847114,0,1,0,0,0,0,0,1,1,0,January
+401,Lavington,Townhouse,4,4,322.7,"balcony,elevator",24906674.0,2025-05-30,3473.5105299999996,7170.461636688921,0,1,0,1,0,0,0,0,0,0,May
+402,South B,Studio,2,1,290.0,"elevator,parking,swimming pool",15894164.0,2025-05-28,3121.531,5091.784768435745,0,0,0,1,0,0,1,0,0,1,May
+403,Karen,Maisonette,2,3,122.3,"security,parking,balcony,gym,swimming pool",29849322.0,2025-12-22,1316.42497,22674.533437329133,0,1,0,0,0,1,1,1,0,1,December
+404,Runda,Apartment,2,1,62.0,"balcony,parking",33617303.0,2025-02-05,667.3618,50373.43012440928,0,1,0,0,0,0,1,0,0,0,February
+405,Kilimani,Studio,1,2,386.5,"backup generator,servant quarter,swimming pool",19096605.0,2025-04-20,4160.24735,4590.257115361182,1,0,0,0,0,0,0,0,1,1,April
+406,Kilimani,Townhouse,4,3,88.6,"elevator,swimming pool,garden,balcony",17654984.0,2025-10-05,953.6815399999999,18512.452280454123,0,1,0,1,1,0,0,0,0,1,October
+407,Syokimau,Penthouse,1,1,93.3,"cctv,gym,balcony,backup generator,garden",10764721.0,2025-08-29,1004.2718699999999,10718.931119717612,1,1,1,0,1,1,0,0,0,0,August
+408,Parklands,Studio,2,2,114.2,"parking,security,backup generator,garden",12570325.0,2025-02-21,1229.23738,10226.116781447046,1,0,0,0,1,0,1,1,0,0,February
+409,Ruaka,Bungalow,3,2,104.5,"swimming pool,garden",14867352.0,2025-08-30,1124.82755,13217.45008823797,0,0,0,0,1,0,0,0,0,1,August
+410,Embakasi,Maisonette,2,3,352.9,"servant quarter,gym",16419269.0,2025-05-09,3798.58031,4322.475151249337,0,0,0,0,0,1,0,0,1,0,May
+411,Ngong Road,Townhouse,2,2,182.3,"security,balcony",14353110.0,2025-01-06,1962.25897,7314.584985691261,0,1,0,0,0,0,0,1,0,0,January
+412,Westlands,Studio,1,1,186.1,"balcony,swimming pool,garden,elevator,cctv",17190815.0,2025-01-26,2003.1617899999999,8581.840511244976,0,1,1,1,1,0,0,0,0,1,January
+413,Westlands,Bungalow,5,5,114.7,"gym,backup generator",19981903.0,2025-03-14,1234.61933,16184.667220462197,1,0,0,0,0,1,0,0,0,0,March
+414,Westlands,Maisonette,4,4,157.0,"cctv,servant quarter",21152103.0,2025-11-07,1689.9323,12516.53868027731,0,0,1,0,0,0,0,0,1,0,November
+415,Roysambu,Studio,4,2,210.8,"servant quarter,balcony,swimming pool,garden,elevator",16961509.0,2025-07-19,2269.03012,7475.224260134546,0,1,0,1,1,0,0,0,1,1,July
+416,Roysambu,Townhouse,1,1,151.8,"cctv,elevator",10483514.0,2025-02-26,1633.96002,6416.0162254153565,0,0,1,1,0,0,0,0,0,0,February
+417,Embakasi,Maisonette,2,3,216.1,"elevator,cctv",13684305.0,2025-03-12,2326.07879,5882.992897244036,0,0,1,1,0,0,0,0,0,0,March
+418,Runda,Bungalow,2,2,53.7,"cctv,balcony,security",35553775.0,2025-03-09,578.02143,61509.44092159351,0,1,1,0,0,0,0,1,0,0,March
+419,Ngong Road,Maisonette,2,1,250.9,"parking,gym,servant quarter",16794185.0,2025-10-08,2700.66251,6218.542649373838,0,0,0,0,0,1,1,0,1,0,October
+420,Parklands,Maisonette,4,4,324.2,"security,gym,swimming pool,servant quarter",21731624.0,2026-01-09,3489.65638,6227.43950508961,0,0,0,0,0,1,0,1,1,1,January
+421,Kileleshwa,Studio,2,3,138.6,"backup generator,garden,balcony,swimming pool",14498589.0,2025-10-16,1491.87654,9718.357123572705,1,1,0,0,1,0,0,0,0,1,October
+422,Parklands,Apartment,3,2,257.5,"elevator,cctv,backup generator,gym,swimming pool",19334236.0,2025-02-25,2771.70425,6975.576849514157,1,0,1,1,0,1,0,0,0,1,February
+423,Roysambu,Studio,3,2,136.3,"elevator,servant quarter,balcony,security",15304076.0,2025-10-27,1467.11957,10431.376087499126,0,1,0,1,0,0,0,1,1,0,October
+424,Parklands,Studio,5,5,48.1,"swimming pool,garden,cctv,servant quarter,elevator",17562372.0,2026-01-21,517.74359,33920.98393724198,0,0,1,1,1,0,0,0,1,1,January
+425,Embakasi,Bungalow,1,2,202.1,"balcony,security",9987201.0,2025-01-22,2175.3841899999998,4591.005600716442,0,1,0,0,0,0,0,1,0,0,January
+426,Roysambu,Townhouse,5,5,81.0,"swimming pool,gym,cctv",15127658.0,2025-04-17,871.8759,17350.70094264562,0,0,1,0,0,1,0,0,0,1,April
+427,Ruaka,Apartment,3,3,72.2,"elevator,gym",12813411.0,2025-03-10,777.15358,16487.61754401234,0,0,0,1,0,1,0,0,0,0,March
+428,South C,Maisonette,1,1,96.9,"balcony,swimming pool,cctv,elevator",9603599.0,2025-09-09,1043.02191,9207.47580460702,0,1,1,1,0,0,0,0,0,1,September
+429,Kasarani,Townhouse,5,4,37.3,"parking,cctv",15725060.0,2025-12-31,401.49346999999995,39166.415334226986,0,0,1,0,0,0,1,0,0,0,December
+430,South C,Apartment,4,2,347.1,"elevator,cctv,swimming pool,servant quarter,backup generator",20142883.0,2025-06-27,3736.14969,5391.34795747437,1,0,1,1,0,0,0,0,1,1,June
+431,Embakasi,Apartment,2,2,280.6,"backup generator,cctv,swimming pool,elevator,servant quarter",15828993.0,2026-01-05,3020.35034,5240.78044535721,1,0,1,1,0,0,0,0,1,1,January
+432,Roysambu,Studio,3,2,240.9,"gym,garden,cctv,balcony,security",17198586.0,2025-05-08,2593.02351,6632.637896908232,0,1,1,0,1,1,0,1,0,0,May
+433,Lavington,Apartment,1,1,273.6,"swimming pool,backup generator",20456114.0,2025-12-14,2945.00304,6946.0417263270465,1,0,0,0,0,0,0,0,0,1,December
+434,Kilimani,Penthouse,2,2,308.6,"elevator,security,balcony",20322625.0,2025-05-07,3321.73954,6118.066981254045,0,1,0,1,0,0,0,1,0,0,May
+435,Kasarani,Bungalow,4,2,306.7,"cctv,swimming pool",18883322.0,2025-07-26,3301.28813,5719.986034663385,0,0,1,0,0,0,0,0,0,1,July
+436,Lavington,Apartment,2,2,172.0,"balcony,servant quarter,backup generator",18893876.0,2025-08-07,1851.3908,10205.233816652864,1,1,0,0,0,0,0,0,1,0,August
+437,Ngong Road,Bungalow,2,2,51.2,"servant quarter,parking,backup generator,balcony,security",11087943.0,2025-03-17,551.11168,20119.23064305224,1,1,0,0,0,0,1,1,1,0,March
+438,Ngong Road,Bungalow,5,2,246.8,"servant quarter,elevator,cctv,garden",22258031.0,2026-01-29,2656.53052,8378.609179314079,0,0,1,1,1,0,0,0,1,0,January
+439,Embakasi,Bungalow,4,3,117.5,"parking,swimming pool,servant quarter,security,garden",12657499.0,2025-11-03,1264.7582499999999,10007.840628831638,0,0,0,0,1,0,1,1,1,1,November
+440,Roysambu,Penthouse,1,1,72.2,"gym,security,parking,cctv,backup generator",7582655.0,2025-08-06,777.15358,9756.958206381807,1,0,1,0,0,1,1,1,0,0,August
+441,Roysambu,Studio,5,3,170.5,"cctv,garden",17488905.0,2025-04-16,1835.24495,9529.46635270676,0,0,1,0,1,0,0,0,0,0,April
+442,Westlands,Studio,3,1,107.6,"gym,backup generator,parking",18810118.0,2025-11-12,1158.19564,16240.881376483167,1,0,0,0,0,1,1,0,0,0,November
+443,Westlands,Apartment,5,5,206.6,"garden,elevator,swimming pool",22366814.0,2025-11-03,2223.82174,10057.82684721843,0,0,0,1,1,0,0,0,0,1,November
+444,Ruaka,Townhouse,2,2,382.2,"elevator,gym",20683383.0,2025-07-15,4113.962579999999,5027.606011914674,0,0,0,1,0,1,0,0,0,0,July
+445,South B,Apartment,3,4,106.3,"swimming pool,cctv,security",11871038.0,2025-11-24,1144.20257,10374.9443597212,0,0,1,0,0,0,0,1,0,1,November
+446,South C,Apartment,5,1,144.5,"security,garden,parking,swimming pool",18060774.0,2026-01-07,1555.38355,11611.781544172818,0,0,0,0,1,0,1,1,0,1,January
+447,Roysambu,Studio,1,1,134.7,"gym,servant quarter,garden,swimming pool",10009425.0,2025-09-04,1449.8973299999998,6903.540542418959,0,0,0,0,1,1,0,0,1,1,September
+448,Kilimani,Maisonette,4,1,85.2,"elevator,swimming pool,security,garden,backup generator",15804605.0,2025-02-24,917.08428,17233.536049707447,1,0,0,1,1,0,0,1,0,1,February
+449,Ruaka,Studio,2,2,337.3,"servant quarter,garden",18116453.0,2026-01-15,3630.66347,4989.846387497875,0,0,0,0,1,0,0,0,1,0,January
+450,Kilimani,Townhouse,2,1,393.3,"servant quarter,backup generator,security,elevator,gym",23698303.0,2025-04-25,4233.44187,5597.8808089787235,1,0,0,1,0,1,0,1,1,0,April
+451,Kileleshwa,Studio,4,5,158.3,"elevator,security,backup generator,gym,parking",18433540.0,2025-01-10,1703.9253700000002,10818.27897192469,1,0,0,1,0,1,1,1,0,0,January
+452,Runda,Maisonette,1,1,238.6,"servant quarter,backup generator,gym,parking,balcony",37891659.0,2025-01-31,2568.2665399999996,14753.78758779453,1,1,0,0,0,1,1,0,1,0,January
+453,Roysambu,Penthouse,3,4,105.0,"cctv,elevator,swimming pool,garden",12918994.0,2025-01-15,1130.2095,11430.618836596224,0,0,1,1,1,0,0,0,0,1,January
+454,Kileleshwa,Townhouse,1,1,43.6,"backup generator,elevator",12156337.0,2025-05-19,469.30604,25902.79255728309,1,0,0,1,0,0,0,0,0,0,May
+455,Ruaka,Apartment,2,3,221.7,"cctv,swimming pool,elevator",16749099.0,2025-06-10,2386.3566299999998,7018.690664018647,0,0,1,1,0,0,0,0,0,1,June
+456,Ruaka,Penthouse,1,2,155.6,"elevator,cctv,gym,servant quarter,garden",12620998.0,2025-12-25,1674.8628399999998,7535.541238708241,0,0,1,1,1,1,0,0,1,0,December
+457,Karen,Bungalow,4,2,143.3,"gym,swimming pool,garden",34024533.0,2025-11-03,1542.46687,22058.517859770953,0,0,0,0,1,1,0,0,0,1,November
+458,Lavington,Maisonette,4,5,111.4,"balcony,cctv,servant quarter,security",22574677.0,2025-04-22,1199.09846,18826.374774928827,0,1,1,0,0,0,0,1,1,0,April
+459,Syokimau,Penthouse,3,3,306.0,"balcony,cctv,security",17987187.0,2025-06-14,3293.7534,5460.999903635773,0,1,1,0,0,0,0,1,0,0,June
+460,Kilimani,Apartment,5,2,56.9,"elevator,security,balcony,cctv",18739927.0,2025-05-26,612.46591,30597.50215322188,0,1,1,1,0,0,0,1,0,0,May
+461,Westlands,Studio,4,5,206.3,"elevator,servant quarter,parking",23476293.0,2025-01-17,2220.5925700000003,10572.084819683963,0,0,0,1,0,0,1,0,1,0,January
+462,South C,Penthouse,5,1,263.6,"parking,gym,elevator,swimming pool,servant quarter",20614063.0,2025-02-14,2837.36404,7265.2161334926905,0,0,0,1,0,1,1,0,1,1,February
+463,Embakasi,Townhouse,2,1,226.6,"garden,servant quarter,balcony,parking,swimming pool",12735640.0,2025-09-21,2439.0997399999997,5221.451091622846,0,1,0,0,1,0,1,0,1,1,September
+464,South B,Apartment,2,3,218.6,"balcony,cctv,servant quarter",14476316.0,2025-01-21,2352.98854,6152.310457066655,0,1,1,0,0,0,0,0,1,0,January
+465,Ruaka,Penthouse,4,1,176.3,"gym,security,swimming pool,garden,cctv",17464101.0,2025-09-01,1897.67557,9202.890776530363,0,0,1,0,1,1,0,1,0,1,September
+466,Karen,Bungalow,2,2,359.0,"elevator,swimming pool,servant quarter,gym,balcony",38270505.0,2025-02-16,3864.2401,9903.759603343487,0,1,0,1,0,1,0,0,1,1,February
+467,Roysambu,Studio,5,1,237.4,"gym,servant quarter,security,swimming pool,parking",17512407.0,2025-09-18,2555.34986,6853.232613713412,0,0,0,0,0,1,1,1,1,1,September
+468,Kasarani,Bungalow,5,3,207.4,"backup generator,gym,parking",17573134.0,2026-02-02,2232.43286,7871.741325291189,1,0,0,0,0,1,1,0,0,0,February
+469,Lavington,Townhouse,2,1,254.2,"servant quarter,balcony,backup generator",21956507.0,2026-01-05,2736.18338,8024.501267162876,1,1,0,0,0,0,0,0,1,0,January
+470,Syokimau,Townhouse,1,2,316.6,"servant quarter,backup generator",15860625.0,2026-01-30,3407.8507400000003,4654.143097828281,1,0,0,0,0,0,0,0,1,0,January
+471,Kilimani,Studio,5,6,181.4,"balcony,elevator,swimming pool,servant quarter",19570177.0,2026-01-27,1952.57146,10022.771202442958,0,1,0,1,0,0,0,0,1,1,January
+472,Parklands,Townhouse,4,1,92.4,"cctv,servant quarter",15738002.0,2025-09-28,994.5843600000001,15823.697448851899,0,0,1,0,0,0,0,0,1,0,September
+473,Lavington,Townhouse,1,2,197.6,"backup generator,elevator,gym,servant quarter,cctv",18156681.0,2026-01-09,2126.9466399999997,8536.500473749546,1,0,1,1,0,1,0,0,1,0,January
+474,Syokimau,Bungalow,5,4,355.0,"backup generator,balcony,elevator,cctv,gym",23338767.0,2025-07-29,3821.1845,6107.730992837431,1,1,1,1,0,1,0,0,0,0,July
+475,Ruaka,Townhouse,3,4,133.6,"servant quarter,elevator,gym,cctv",17419019.0,2025-02-08,1438.05704,12112.884618262431,0,0,1,1,0,1,0,0,1,0,February
+476,Embakasi,Apartment,1,2,378.0,"cctv,backup generator,servant quarter",15876763.0,2025-05-21,4068.7542,3902.1189827588996,1,0,1,0,0,0,0,0,1,0,May
+477,Ruaka,Bungalow,1,1,383.8,"swimming pool,cctv,elevator,gym",17050999.0,2025-05-26,4131.18482,4127.387116028374,0,0,1,1,0,1,0,0,0,1,May
+478,Kileleshwa,Studio,3,3,69.5,"servant quarter,cctv",14917561.0,2025-10-05,748.09105,19940.836078709937,0,0,1,0,0,0,0,0,1,0,October
+479,Kasarani,Penthouse,5,2,380.3,"security,swimming pool",21914183.0,2025-03-09,4093.5111699999998,5353.395188121595,0,0,0,0,0,0,0,1,0,1,March
+480,South B,Maisonette,5,6,222.7,"swimming pool,security,garden",21077162.0,2026-02-03,2397.1205299999997,8792.70013177018,0,0,0,0,1,0,0,1,0,1,February
+481,Ngong Road,Apartment,3,4,54.3,"elevator,security,balcony",12848572.0,2026-01-24,584.4797699999999,21982.919956322872,0,1,0,1,0,0,0,1,0,0,January
+482,Roysambu,Bungalow,5,2,363.0,"security,balcony,servant quarter",22381348.0,2025-08-07,3907.2956999999997,5728.091682439085,0,1,0,0,0,0,0,1,1,0,August
+483,Ngong Road,Studio,1,2,311.1,"gym,cctv,garden",17545826.0,2025-06-15,3348.6492900000003,5239.6726203597145,0,0,1,0,1,1,0,0,0,0,June
+484,Embakasi,Penthouse,4,4,186.7,"cctv,parking,backup generator,balcony,servant quarter",14362210.0,2025-10-28,2009.6201299999998,7146.728770078553,1,1,1,0,0,0,1,0,1,0,October
+485,Ruaka,Apartment,3,2,296.9,"cctv,parking,gym,balcony",19815113.0,2025-09-02,3195.8019099999997,6200.357080329801,0,1,1,0,0,1,1,0,0,0,September
+486,Westlands,Maisonette,2,1,146.8,"balcony,servant quarter,parking",16499085.0,2025-12-25,1580.1405200000002,10441.530225425773,0,1,0,0,0,0,1,0,1,0,December
+487,Westlands,Maisonette,5,4,96.0,"cctv,balcony",21362144.0,2025-05-07,1033.3344,20673.021240752267,0,1,1,0,0,0,0,0,0,0,May
+488,Syokimau,Apartment,5,4,105.7,"servant quarter,balcony",16911848.0,2025-04-23,1137.74423,14864.367187342272,0,1,0,0,0,0,0,0,1,0,April
+489,Embakasi,Bungalow,3,2,114.8,"cctv,security,swimming pool,gym,parking",11621753.0,2025-12-27,1235.69572,9405.02812456128,0,0,1,0,0,1,1,1,0,1,December
+490,Kilimani,Maisonette,5,3,180.7,"parking,security",20243351.0,2025-09-08,1945.0367299999998,10407.696002738212,0,0,0,0,0,0,1,1,0,0,September
+491,Kilimani,Townhouse,5,5,397.1,"gym,servant quarter,backup generator,parking,cctv",25229402.0,2026-01-07,4274.34469,5902.51929354813,1,0,1,0,0,1,1,0,1,0,January
+492,Kileleshwa,Apartment,2,3,158.9,"swimming pool,cctv,garden,backup generator,servant quarter",15441054.0,2026-01-16,1710.38371,9027.830369128105,1,0,1,0,1,0,0,0,1,1,January
+493,Kasarani,Townhouse,5,3,350.0,"balcony,swimming pool,gym",22456152.0,2025-12-30,3767.365,5960.705161299742,0,1,0,0,0,1,0,0,0,1,December
+494,Ruaka,Studio,4,5,382.9,"cctv,parking,balcony",22700722.0,2025-01-25,4121.49731,5507.882279801852,0,1,1,0,0,0,1,0,0,0,January
+495,Lavington,Penthouse,2,2,284.0,"garden,servant quarter",22767864.0,2026-02-04,3056.9476,7447.907841141929,0,0,0,0,1,0,0,0,1,0,February
+496,Kilimani,Maisonette,2,3,214.4,"servant quarter,backup generator",16338349.0,2025-05-05,2307.78016,7079.681714570248,1,0,0,0,0,0,0,0,1,0,May
+497,Lavington,Maisonette,1,1,377.3,"garden,elevator,gym",24088107.0,2025-06-25,4061.21947,5931.249758339211,0,0,0,1,1,1,0,0,0,0,June
+498,Parklands,Townhouse,5,1,357.7,"swimming pool,security,backup generator,elevator",25556180.0,2025-03-12,3850.2470299999995,6637.542942277136,1,0,0,1,0,0,0,1,0,1,March
+499,South C,Apartment,5,2,283.3,"servant quarter,backup generator,garden,elevator",21503658.0,2025-10-22,3049.41287,7051.737143091417,1,0,0,1,1,0,0,0,1,0,October
